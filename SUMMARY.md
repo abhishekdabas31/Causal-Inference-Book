@@ -16,6 +16,7 @@
   * [Mediators](causal-graphs/mediators.md)
   * [Confounders](causal-graphs/confounders.md)
   * [Back Door Paths](causal-graphs/back-door-paths.md)
+  * [Test](causal-graphs/test.md)
 * [Counterfactuals](counterfactuals.md)
 * [Modeling for Causal Inference](modeling/README.md)
   * [Experimental Data](modeling/experimental-data/README.md)
