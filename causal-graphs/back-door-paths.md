@@ -1,10 +1,10 @@
 # Back Door Paths
 
-**Reason :** We need Back-door Paths so as to find the estimated causal effect of One variables on other, by blocking the other paths. It is a method for adjustment criteria for conditioning on non causal variables. The key goal is to remove the non causal association and remove the bias in the model.
+**Back door path:** Arrows pointing towards the treatment are essentially the back door paths. These are the other paths of getting from the treatment to the outcome. It could be considered as a sneaky or unofficial path from the treatment to outcome.
+
+We need Back-door Paths so as to find the estimated causal effect of one variable on another,  by blocking the other paths. It is a method for adjustment criteria for conditioning on non-causal variables. The key goal is to remove the non-causal association and remove the bias in the model.
 
 **Back Door Paths helps in determining which set of variables to condition on for identifying the causal effect.**
-
-**Back door path :** Arrows pointing towards the treatment are essentially the back door paths. These are the other paths of getting from the treatment to the outcome. It could be considered as a sneaky or unofficial path from the treatment to outcome.
 
 **Back Door Adjustments:** 
 
