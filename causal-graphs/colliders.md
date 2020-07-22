@@ -6,7 +6,7 @@ Collider**s** are variables where two arrowheads meet. It blocks the dependency 
 
 **If there is a child variable, with 2 parent variables pointing towards it. Child variables are affected you both parent \(a child had mixed characters of both parents\), but doesnt mean one parent is affected by another one.**
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 
 

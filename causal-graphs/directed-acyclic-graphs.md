@@ -30,7 +30,7 @@
 
 **Solution:** 
 
-1. **Randomization :**  If we are checking the effect of treatment  T on outcome Y, then we can randomly assign Treatment to a population. Then there might be other causes of Outcome Y, but Treatment has only once cause that is random flip of coin. So overall it has no common cause or back door path.
+1. **Randomization:**  If we are examining the effect of a treatment, T on the outcome, Y then we can randomly assign Treatment to a population. There can be other causes of the Outcome Y, but the treatment here has only one cause that is the random flip of a coin. So overall it has no common cause or back door path from treatment to outcome.
 
 * **A/B Testing :**
 
@@ -54,5 +54,5 @@
 1. All these Methods Require data on confounders, Any method can be used unless its time Varying, in which case we need G methods.‌
 2. All require knowledge of true causal Graphs
 
-**NOTE :** _**With these Methods we can try to reduce the bias within our Model. It does not completely remove the bias.**_
+\*\*\*\*
 

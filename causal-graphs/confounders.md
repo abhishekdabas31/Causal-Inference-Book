@@ -10,7 +10,7 @@ L is a **confounder** of the effect of A on Y, if L meets 3 conditions:
 2. L is associated with Y conditional on A
 3. L is not on a causal pathway from A to Y.
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 In the above picture, If we have to condition on confounder and do not have enough data on the variables then we have to condition on one of the variables, "Z" in this case to restrict the back door path\(If we don't have data on U\) . We can condition on only 1 variable to restrict the backdoor path.
 
@@ -20,5 +20,5 @@ In the above picture, If we have to condition on confounder and do not have enou
 
 X - Medication , Y - stroke,  Z - History of heart disease , U - Weak arteries
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
