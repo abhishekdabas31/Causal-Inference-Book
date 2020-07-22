@@ -6,8 +6,6 @@ description: D-connection & D-separation
 
 This concept is formalized by Judea Perl in 1995,  and Spirtes, Glymour, Scheines. it is a key part of Causal Graphs Theory. It is used to study the Independence properties of sub-graphs.
 
-
-
 * **Path -**   Consecutive sequence of arrows between the nodes irrespective of direction, disregarding their directionalities
 * **Blocked Path -** A collider in the paths, blocks the path.
 * **Unblocked Path -** No collider between the path, means its unblocked
