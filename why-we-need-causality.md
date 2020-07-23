@@ -2,7 +2,7 @@
 
 Causality has made tremendous progress in past 30 years. 
 
-**The Reasons why causality is needed are:**
+**Why we need causality ?**
 
 1. Knowing and asking "**why**" is really important, Causality can answer these questions
 2. Knowing about spurious correlations

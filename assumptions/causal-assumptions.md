@@ -2,7 +2,7 @@
 
 Identifiability of causal effects requires making some untestable assumptions.Because of the problem in causal Inference, that we do not see both the potential outcomes within the data, it is required to make some strong assumptions. Some of these assumptions are untestable, these untestable assumptions are the **causal assumptions**. These assumptions are about the observed data, i.e treatment, outcome and the set of pre-treatment covariates. 
 
-The most common assumptions are:
+**The most common assumptions are:**
 
 1. SUTVA - Stable Unit Treatment Value Assumptions
 2. Consistency
