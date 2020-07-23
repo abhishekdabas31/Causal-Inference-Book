@@ -12,7 +12,7 @@ This concept is formalized by Judea Perl in 1995,  and Spirtes, Glymour, Scheine
 
 **Note**: A path can be blocked by conditioning on the variable or nodes in the path. example: conditioning on a mediator or a confounder can block the path. Completely opposite happens when we condition on a collider 
 
-_D-connected and D-Separated **\(D stands for Directional\):**_
+_**D-connected and D-Separated \(**D stands for Directional**\):**_
 
 * **D-connection:** x and y are d-connected if there is an unblocked path between them. ****
 * **D-separation** is a criterion for deciding, from a given a causal graph, whether a set X of variables is independent of another set Y, given a third set Z. 

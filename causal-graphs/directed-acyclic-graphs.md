@@ -47,7 +47,7 @@
 
 * **Statification :**  Condition the confounder, to get a subset of data for analysis. Example: condition that Confounder = 0 \(No heart disease patients, if heart disease is confounder\).  The main idea here is to identify a strata and compute the causal effects only within that strata
 * A more sophisticated way is Regression Analysis????????
-* **Matching:** Matching tries to predict the outcome, by associating the similar pair of elements within the data, where we can find one is treated and the other is not.We can use Propensity Score for matching.Matching eliminates the back door path, but it cant be represented by DAG. **Example:** Matching every person who took aspirin and had a heart attack, with person who did not take aspirin and had a heart attack. And also, people who took aspirin and did not have a hear attack, with person who took aspirin and also did not have an heart attack. We then restrict the analysis to those who matched.
+* **Matching:** Matching tries to predict the outcome, by associating the similar pair of elements within the data, where we can find one is treated and the other is not.We can use Propensity Score for matching. Matching eliminates the back door path, but it cant be represented by DAG. **Example:** Matching every person who took aspirin and had a heart attack, with person who did not take aspirin and had a heart attack. And also, people who took aspirin and did not have a hear attack, with person who took aspirin and also did not have an heart attack. We then restrict the analysis to those who matched.
 
 **Requirements for all these methods:**‌
 
