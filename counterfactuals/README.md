@@ -8,9 +8,9 @@ Counterfactual Analysis is all about answering the question, "**what would have 
 
 1. _Given that I have a beard, and that I have a PhD degree, and everything else we know about me, with what probability would I have obtained a PhD degree, had I never grown a beard._
 
-* A counterfactual question is **about a specific datapoint in this case PHD.**
+* A counterfactual question is **about a specific data point in this case PHD.**
 
-_2. If a person dies after a treatment, we can ask the counterfactual question, would the person die if the treatment was not given?, which can help us understand the causal relationship between treatment and outcome._
+_2. If a person dies after treatment, we can ask the counterfactual question, would the person die if the treatment was not given?, which can help us understand the causal relationship between treatment and outcome._
 
 **Problems**: 
 
