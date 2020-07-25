@@ -61,7 +61,7 @@ Resource : [https://towardsdatascience.com/data-science-you-need-to-know-a-b-tes
 
 [Statistical significance](https://towardsdatascience.com/statistical-significance-hypothesis-testing-the-normal-curve-and-p-values-93274fa32687)
 
-[what AB Testing is acctually measuring](https://medium.com/@akelleh/what-do-ab-tests-actually-measure-e89ebd63a73e)
+[what AB Testing is actually measuring](https://medium.com/@akelleh/what-do-ab-tests-actually-measure-e89ebd63a73e)
 
 [https://hbr.org/2017/06/a-refresher-on-ab-testing](https://hbr.org/2017/06/a-refresher-on-ab-testing)
 

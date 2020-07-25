@@ -24,6 +24,7 @@
   * [Experimental Data](modeling/experimental-data/README.md)
     * [Randomization](modeling/experimental-data/randomization/README.md)
       * [A/B Testing](modeling/experimental-data/randomization/a-b-testing.md)
+      * [A/B Testing Experiment](modeling/experimental-data/randomization/a-b-testing-experiment.md)
   * [Non-Experimental / Observational Data](modeling/observational-data/README.md)
     * [Sensitivity Analysis](modeling/observational-data/sensitivity-analysis.md)
     * [Regression Discontinuity](modeling/observational-data/regression-discontinuity.md)
