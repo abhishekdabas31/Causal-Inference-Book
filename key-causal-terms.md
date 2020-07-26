@@ -36,7 +36,7 @@ Treatment can be defined as a cause that leads to some effect on an object or a 
 
 * **What is the Gold Standard for Causal Analysis?**
 
-In causal Analysis **Randomized controlled trials** , where the subjects are randomly assigned to a treatment and a controlled\(not given treatment\) group. The **difference between these distributions of outcomes of treated and controlled** represents the causal effect. Although this method is not always feasible. **The other method then is observational data\(uncontrolled experiments\)**
+In causal Analysis **Randomized controlled trials**, where the subjects are randomly assigned to a treatment and a controlled\(not given treatment\) group. The **difference between these distributions of outcomes of treated and controlled** represents the causal effect. Although this method is not always feasible. **The other method then is observational data\(uncontrolled experiments\)**
 
 * **Predictive Modeling vs Causal Modeling:** 
 
@@ -47,16 +47,16 @@ In causal Analysis **Randomized controlled trials** , where the subjects are ran
 * **Examples of Causal Questions or Questions we can answer by knowing Causal Inference:**
 * How effective was a treatment in preventing a disease?
 * Does drinking Wine prevent Heart disease?
-* Does passive smoking affect the mortality of non smokers?
+* Does passive smoking affect the mortality of non-smokers?
 * To what degree Covid-19 outcomes are affected by lung problems?
 * Was it the new tax break that caused sales to go up ? or the marketing campaign?
-* Does adding business hours attribute to increase in user engagement?
-* Does rerouting users from the mobile site to downloading the mobile app increase pageviews?
+* Does adding business hours attribute to an increase in user engagement?
+* Does rerouting users from the mobile site to downloading the mobile app increase page views?
 * **Where causality fits in Machine learning**:
 
-**Causal Inference is like unsupervised Regression** : Causal effect Coefficients are unknown from the data, whose real world values are not known and cant be used for training. Ex: How much does X cause Y.
+**Causal Inference is like unsupervised Regression** : Causal effect Coefficients are unknown from the data, whose real-world values are not known and cant be used for training. Ex: How much does X cause Y.
 
-**Causal Structure Learning is like Unsupervised Classification**: Causal Structures are unknown and cant be used for training, thus they are unknown. Ex: What variables causes X, what variables doesn't cause X?
+**Causal Structure Learning is like Unsupervised Classification**: Causal Structures are unknown and cant be used for training, thus they are unknown. Ex: What variables causes X, what variables don't cause X?
 
 1. **Challenges in Causal Analysis**:
 2. \*\*Association is not Causation\*\*

@@ -10,7 +10,7 @@ It is important to understand and resolve Simpsons Paradox, because the data we 
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
-**2.** Simpson Paradox on Reddit : Avg Comment weight decresed over time? what should be done?.... If we split the data we see that the avg comment length increases with time the user joined the platform. So its just that new users have been added on the platform
+**2.** Simpson Paradox on Reddit : Avg Comment weight decreased over time? what should be done?.... If we split the data we see that the avg comment length increases with time the user joined the platform. So its just that new users have been added on the platform
 
 3. Covid 19 Dataset: [http://causality.cs.ucla.edu/blog/index.php/2020/07/06/race-covid-mortality-and-simpsons-paradox-by-dana-mackenzie/](http://causality.cs.ucla.edu/blog/index.php/2020/07/06/race-covid-mortality-and-simpsons-paradox-by-dana-mackenzie/)
 
