@@ -1,19 +1,14 @@
 # Stratification
 
-Stratification is defined as the act of sorting data, people, and objects into distinct groups or layers. It is a 
-technique used in combination with other data analysis tools. When data from a variety of sources or categories have been 
-lumped together, the meaning of the data can be difficult to see. This data collection and analysis technique separates 
-the data so that patterns can be seen and is considered one of the seven basic quality tools.
+Stratification is defined as the act of sorting data, people, and objects into distinct groups or layers. It is a technique used in combination with other data analysis tools. When data from a variety of sources or categories have been lumped together, the meaning of the data can be difficult to see. This data collection and analysis technique separates the data so that patterns can be seen and is considered one of the seven basic quality tools.
 
-From the definition it is clear to see that stratification is exactly what leads us to the [Simpson's Paradox](bias/simpsons-paradox.md).
+From the definition it is clear to see that stratification is exactly what leads us to the [Simpson's Paradox](https://github.com/abhishekdabas31/Causal-Inference-Book/tree/090cfeee8785ef0e136cfe1996bd2897326fdd57/modeling/observational-data/bias/simpsons-paradox.md).
 
-When the whole population is bunched together and not stratified on a particular variable, our inference can be very different
-that what it would be, had the stratification been performed. 
+When the whole population is bunched together and not stratified on a particular variable, our inference can be very different that what it would be, had the stratification been performed.
 
 ![](../../.gitbook/assets/image%20%282%29.png)
 
-
-Resource : 
+Resource :
 
 [Coursera: A Crash Course in Causality: Inferring Causal Effects from Observational Data](https://www.coursera.org/lecture/crash-course-in-causality/stratification-xEcaf)
 
