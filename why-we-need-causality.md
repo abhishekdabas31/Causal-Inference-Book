@@ -23,3 +23,7 @@ Causality has made tremendous progress in past 30 years.
 14. It can help companies build better products by effective decision making - Uber
 15. We can improve the decision-making process by understanding how and why a decision is made with precise points or description.
 
+
+
+**"Causal Inference is Hard"**
+

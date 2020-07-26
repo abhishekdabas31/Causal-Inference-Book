@@ -10,9 +10,7 @@ description: 'A causal Inference Library from Microsoft by Amit Sharma, Emre Kic
 
 
 
-
-
-
+DoWhy examples: [Github](https://github.com/microsoft/dowhy/tree/master/docs/source/example_notebooks/)
 
 Resource: [https://github.com/Microsoft/dowhy](https://github.com/Microsoft/dowhy) , [https://microsoft.github.io/dowhy/](https://microsoft.github.io/dowhy/)
 
