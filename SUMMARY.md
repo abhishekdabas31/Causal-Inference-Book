@@ -40,7 +40,7 @@
   * [CausalInference](tools-and-libraries/causalinference.md)
   * [DoWhy](tools-and-libraries/dowhy/README.md)
     * [Do-Sampler](tools-and-libraries/dowhy/do-sampler.md)
-    * [Untitled](tools-and-libraries/dowhy/untitled.md)
+    * [Operations](tools-and-libraries/dowhy/untitled.md)
   * [Dagitty](tools-and-libraries/dagitty.md)
 * [Limitations of Causal Inference](limitations-of-causal-inference/README.md)
   * [Fundamental Problem of Causal Inference](limitations-of-causal-inference/fundamental-problem-of-causal-inference.md)
