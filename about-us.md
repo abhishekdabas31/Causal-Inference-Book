@@ -12,9 +12,7 @@ Smart Devices from Network files. Along side this, Abhijit is also working on un
 
 His hobbies include playing chess, reading and volunteering in community services. 
 
-[Website](https://www.abhijitkmenon.com/)
-
-[LinkedIn](https://www.linkedin.com/in/abhijit-krishna-menon/)
+[Website](https://www.abhijitkmenon.com/) |  [LinkedIn](https://www.linkedin.com/in/abhijit-krishna-menon/)
 
 
 
