@@ -4,7 +4,9 @@
 
 **Abhishek Dabas** 
 
-**Abhijit Krishna Menon** 
+**Abhijit Krishna Menon**        
+
+![](.gitbook/assets/abhijit.png)
 
 Abhijit is a Graduate student in the Master's of Data Analytics program at Northeastern University. He is currently working 
 as a Machine Learning researcher in the 'Cyber-Security and Privacy Institute'. His research is focussed on action classification of 
