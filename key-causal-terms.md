@@ -70,6 +70,8 @@ In causal Analysis **Randomized controlled trials**, where the subjects are rand
 
 We are trying to remove the bias associations so that we get the real causes and effects
 
+
+
 ![](.gitbook/assets/image%20%281%29.png)
 
 \*\*\*\*
