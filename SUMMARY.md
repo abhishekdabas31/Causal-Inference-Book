@@ -30,6 +30,8 @@
       * [A/B Testing](modeling/experimental-data/randomization/a-b-testing.md)
       * [A/B Testing Experiment](modeling/experimental-data/randomization/a-b-testing-experiment.md)
   * [Non-Experimental / Observational Data](modeling/observational-data/README.md)
+    * [Weighting](modeling/observational-data/weighting.md)
+    * [Inverse Propensity Weighting](modeling/observational-data/inverse-propensity-weighting.md)
     * [Propensity Score](modeling/observational-data/propensity-score.md)
     * [Sensitivity Analysis](modeling/observational-data/sensitivity-analysis.md)
     * [Regression Discontinuity](modeling/observational-data/regression-discontinuity.md)
