@@ -1,3 +1,7 @@
+---
+description: Causal Glossary
+---
+
 # Key Causal Terms and related Questions
 
 * **What is the Causal Effect?**

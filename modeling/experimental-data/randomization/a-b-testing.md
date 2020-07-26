@@ -1,10 +1,10 @@
 # A/B Testing
 
-A/B testing is an example of a completely randomized trial. It is considered as a standard and basic test for randomized controlled experiments.
+A/B testing is an example of a completely randomized trial. It is considered as standard and basic test for randomized controlled experiments.
 
 It is a very basic way of testing two versions of things and figure out which version performs better. It is a randomized experiment testing method with two variants **A and B**, statistically testing these. The main responsibility of A/B testing is to experiment with new ideas for testing Machine Learning Models and actions to improve existing ones. It does the testing and reports the statistics for it. In A/B testing we are actually **controlling** how to allocate users to different groups. It is a gold standard method for understanding the **causal relationship.**
 
-**A/B testing is a commonly used method for causal Interpretation.**
+**A/B testing is commonly used method for causal Interpretation.**
 
 > In a lot of cases, getting the data for the entire population is very hard. The solution to this would be taking a sample \(ex. selecting 1000 from 100000 people\) and doing statistical analysis on the sample data to predict how the remaining\(99,000 people\) are going to perform. This process of selecting a small portion from larger population is called **sampling** \(this sample can represent the overall population\). Example: If 10% from 1000 people buy a product, then if we select a sample of 10 people, 1 would buy the product. The ratio will remain the same.
 
@@ -18,21 +18,21 @@ It is a very basic way of testing two versions of things and figure out which ve
 
 P-Value\( **It is the specific probability of getting results as extreme as we have if the null hypothesis were true\)**
 
-**A/B test** starts by deciding what hypothesis we want to test. **Example**: size of the subscribers button. The metric here is how many people click on the button. To run the test we show different buttons to different people and then conclude which size of a button made more CTR. In this case there is is very important to understand that there might be different factors influencing the clicks on the button, screen size? mobile & laptop version? which can influence the result of our analysis. By **randomization**, we are minimizing these factors here. If population of these are not similar, we can consider diving the population with screen size \(Conditioning on the confounder\). Usually, in such cases, we need to identify the effects and incorporate assumptions within the process of causal effect estimation, which can otherwise lead to wrong conclusions.
+**A/B test** starts by deciding what hypothesis we want to test. **Example**: size of the subscribers button. The metric here is how many people click on the button. To run the test we show different buttons to different people and then conclude which size of button made more CTR. In this case there is is very important to understand that there might be different factors influencing the clicks on the button, screen size ? mobile & laptop version? which can influence the result of our analysis. By **randomization**, we are minimizing these factors here. If population of these are not similar, we can consider diving the population with screen size \(Conditioning on the confounder\). Usually in such cases, we need to identify the effects and incorporate assumptions within the process of causal effect estimation, which can otherwise lead to wrong conclusions.
 
-**Assumptions are an important part of modeling in Causal Inference. Hence If we disregard the assumptions before modeling, it can lead to miscellaneous results!!**
+**Assumptions are an important part of modeling in causal Inference. Hence If we disregard the assumptions before modeling, it can lead to miscellaneous results!!**
 
-**Multivariate testing:** A/B testing can further be used for testing multiple variables, we can end up doing A/B/C/D testing
+**Multivariate testing :** A/B testing can further be used for testing multiple variables, we can end up doing A/B/C/D testing
 
-**Example**: A-B testing, If p-values is 0.0216, which is less than 0.05, we reject null hypothesis by saying there is a 2.16% chance of Alternate hypothesis coming from random noise. **We are just proving there is a correlation between the conditions but not causation \( a relation between new ads and higher people coming in\)**
+**Example**: A-B testing, If p-values is 0.0216, which is less than 0.05, we reject null hypothesis by saying there is a 2.16% chance of Alternate hypothesis coming from random noise.**We are just proving there is a correlation between the conditions but not causation \( a relation between new ads and higher people coming in\)**
 
 **Use case:**
 
-* Companies use this method for testing everything from website designs to offers and product descriptions etc.  A/B testing is a very important concept to gather both quantitative and qualitative user insights and use them to understand the potential customers and optimize the conversion funnel based on data. 
+* Companie use this method for testing everything from website designs to offers and product descriptions etc.  A/B testing is a very important concept to gather both quantative and qualitaitve user insights and use them to understand the potential customers and optimize the conversion funnel based on data. 
 
 **Problems:**
 
-1. **Self Selection Bias:** When we are running an AB Test, we plan on testing it on a random sample of people that represent the whole population. But is that really true? , The test is running on people present\(Online, in case of an e-commerce website testing\). We have to be sure about the effect that we are testing, really what we are looking for?
+1. **Self Selection Bias:** When we are running an AB Test, we plan on testing it on random sample of people that represent the whole population. But is that really True? , The test is running on people present\(Online, in case of a e-commerce website testing\). We have to be sure about the effect that  we are testing, really what we are looking for?
 2. It is very difficult to have a perfect, clean A/B test, when we are increasing the scale of people or the target audience
 3. Looking at too many metrics \(risk of spurious correlations\)
 4. Ending the AB test too soon. It usually takes a lot of time \(3-4 weeks of running time\)
@@ -48,6 +48,14 @@ P-Value\( **It is the specific probability of getting results as extreme as we h
 **Conclusion**:
 
 AB Testing checks the effect of the treatment over a population that selects themselves into AB Test
+
+
+
+
+
+
+
+
 
 Resource : [https://towardsdatascience.com/data-science-you-need-to-know-a-b-testing-f2f12aff619a](https://towardsdatascience.com/data-science-you-need-to-know-a-b-testing-f2f12aff619a)
 

@@ -4,6 +4,8 @@ description: 'A causal Inference Library from Microsoft by Amit Sharma, Emre Kic
 
 # DoWhy
 
+**DoWHY is a python Library for Causal Inference from Microsoft, developed by** Amit Sharma, Emre Kiciman
+
 **About** : DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks.
 
 

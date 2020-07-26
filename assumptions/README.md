@@ -12,20 +12,20 @@ The misconception here is that statistical Inference on the selected data can be
 
 **What is a Sample?** It is a random, small subset data of this population data. 
 
-Take any example and consider the definition of these again. **Example**: avg height of men in United States. My Population here is every men \(**All of them**\) in the United states, that's what we need to consider for making a decision here. If we go and calculate the height of every men, its easy to conclude and make decision on this. But this is real world, and let's be realistic here, its not a smart approach. Now we take a sample of population of men and make a conclusion from their height. Since calculating the real height of every man is not possible here, we make the best guess about it using statistics. Now if your data is of all the tall people in US then your assumption about the height of men in US will be different from someone with data of men with shorter height.  Now no one is wrong here!!! **But the problem is that we are treating our sample as our population here**.  
+Take any example and consider the definition of these again. Example : avg height of men in United States. My Population here is every men \(**All of them**\) in United states, thats what we need to consider for making a decision here. If we go and calculate the height of every men, its easy to conclude and make decision on this. But this is real world, and lets be realistic here, its not a smart approach. Now we take a sample of population of men and make a conclusion from their height. Since calculating the real height of every men is not possible here, we make best guess about it using statistics. Now if your data is of all the tall people in US then your assumption about the height of men in US will be different from someone with data of men with shorter height.  Now no one is wrong here!!! **But the problem is that we are treating our sample as our population here**.  
 
 Facts : 
 
 1. The more accurate data you have more precise is your conclusion. 
-2. Acknowledging the fact that we are dealing with uncertainty. 
+2. Acknowledging the fact that we are dealing with uncertainity. 
 
 **INFERENCE \(or Prediction\) = DATA + ASSUMPTIONS**
 
-Now if we had data or facts about all the population of interest, we wouldn't need these assumptions. Now I think we can agree that in most cases we do not have the actual population data, hence we do not have the real facts with us. Which in other words mean there is a gap within what we know and what we wish we knew. Assumptions are the connecting path from our past data to making inferences about what we want to predict or infer.
+Now if we had data or facts about all the population of interest, we wouldn't need these assumptions. Now I think we can agree that in most cases we do not have the actual population data, hence we do not have the real facts with us. Which in other words mean there is a gap within what we know and what we wish we knew. Assumptions are the connecting path from our past data to making inference about what we want to predict or infer.
 
-_**The assumption is a very important part of decision-making process!!**_ 
+_**Assumption are a very important part of decision-making process!!**_ 
 
-When we analyze data, we assume all of it is captures without errors. The human brain also works on past data. We like something because our past experience has been positive in regards to that particular thing. It all works on past experiences or past examples or past data. But when we consider bias, or some misconceptions within these examples, it makes assumptions more important. **Maybe the word assumption makes it sound a little vague. We can consider assumptions as "teaching" or "data generating rules".** 
+When we analyze data, we assume all of it is captures without errors. Human brain also works on past data. We like something because our past experience has been positive in regards to that particular thing. It all works on past experiences or past examples or past data. But when we consider bias, or some misconceptions within these examples, it makes assumptions more important. **Maybe the word assumption makes it sound a little vague. We can consider assumptions as "teaching" or "data generating rules".** 
 
 **Examples**: 
 

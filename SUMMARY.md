@@ -1,6 +1,9 @@
 # Table of contents
 
-* [Origin of Causality](README.md)
+* [Causal Inference](README.md)
+* [Preface](preface.md)
+* [About Us](about-us.md)
+* [Origin of Causality](origin-of-causality.md)
 * [Decision Making](decision-making.md)
 * [Why we need Causality](why-we-need-causality.md)
 * [Key Causal Terms and related Questions](key-causal-terms.md)
