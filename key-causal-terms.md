@@ -16,17 +16,13 @@ It has been defined multiple times from Aristotle. But generally what we mean is
 
 To understand the true cause and effect relationship. For Example: if X causes and outcome Y or not? Does smoking cause cancer or not?
 
-* **What is an Estimand?** 
-
-Causal Estimand can be defined as the expectations of potential outcomes. It is the population that has to be estimated in statistical analysis. 
-
 * **What is Causal Lens or Data Generating process?** 
 
-There is an **unknown but true Data Generating Process \(DGP\)** that exists and explains the world. It explains the question which we really need answers for, from the data. **Task**: Infer properties of DGP using data and assumptions\(since we don't know about\) about other properties of DGP. By this **we are trying to predict the consequences of interventions.**
+There is an **unknown but true Data Generating Process \(DGP\)** that exists and explains the world. It explains the question which we really need answers for, from the data. **Task**: Infer properties of DGP using data and assumptions\(since we dont know about\) about other properties of DGP. By this **we are trying to predict the consequences of interventions.**
 
 * **What is Causal Inference?**
 
-Causal Inference is the process of drawing a conclusion about a causal connection based on the condition of the occurrence of the effect. A method of taking inputs and producing answers to causal questions.
+Causal Inference is process of drawing a conclusion about a causal connection based on the condition of the occurrence of the effect. A method of taking inputs and producing answers to causal questions.
 
 **Inputs**:
 
@@ -53,7 +49,7 @@ In causal Analysis **Randomized controlled trials**, where the subjects are rand
 **Causal Modeling** is used to control the outcomes. **Example**: can I control the weather?, can I influence the patient's weather?, how can I influence the next video you watch?
 
 * **Examples of Causal Questions or Questions we can answer by knowing Causal Inference:**
-* How effective was a treatment in preventing disease?
+* How effective was a treatment in preventing a disease?
 * Does drinking Wine prevent Heart disease?
 * Does passive smoking affect the mortality of non-smokers?
 * To what degree Covid-19 outcomes are affected by lung problems?
@@ -62,7 +58,7 @@ In causal Analysis **Randomized controlled trials**, where the subjects are rand
 * Does rerouting users from the mobile site to downloading the mobile app increase page views?
 * **Where causality fits in Machine learning**:
 
-**Causal Inference is like unsupervised Regression**: Causal effect Coefficients are unknown from the data, whose real-world values are not known and cant be used for training. Ex: How much does X cause Y.
+**Causal Inference is like unsupervised Regression** : Causal effect Coefficients are unknown from the data, whose real-world values are not known and cant be used for training. Ex: How much does X cause Y.
 
 **Causal Structure Learning is like Unsupervised Classification**: Causal Structures are unknown and cant be used for training, thus they are unknown. Ex: What variables causes X, what variables don't cause X?
 
