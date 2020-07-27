@@ -1,4 +1,4 @@
-# A/B Testing Experiment
+# Experiment
 
 As we saw in the last section, randomization without bias is a super important aspect of A/B testing. However, while drawing a conclusion from the test performed, one should be certain that there are no external factors that might be affecting the way the results are showing up.
 
