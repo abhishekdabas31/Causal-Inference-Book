@@ -16,6 +16,10 @@ It has been defined multiple times from Aristotle. But generally what we mean is
 
 To understand the true cause and effect relationship. For Example: if X causes and outcome Y or not? Does smoking cause cancer or not?
 
+* **What is an Estimand?** 
+
+Causal Estimand can be defined as the expectations of potential outcomes. It is the population that has to be estimated in statistical analysis. 
+
 * **What is Causal Lens or Data Generating process?** 
 
 There is an **unknown but true Data Generating Process \(DGP\)** that exists and explains the world. It explains the question which we really need answers for, from the data. **Task**: Infer properties of DGP using data and assumptions\(since we dont know about\) about other properties of DGP. By this **we are trying to predict the consequences of interventions.**
