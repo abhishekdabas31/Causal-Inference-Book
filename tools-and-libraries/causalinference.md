@@ -8,3 +8,10 @@ Have a look at the co-lab notebook below to see how the CausalInference package 
 
 Resources: [CausalInference Documentation](https://github.com/laurencium/causalinference/blob/master/docs/tex/vignette.pdf) [Degenerate State Blog on Backdoor Adjestment](http://www.degeneratestate.org/posts/2018/Jul/10/causal-inference-with-python-part-2-causal-graphical-models/)
 
+
+Resources:
+
+[CausalInference Documentation](https://github.com/laurencium/causalinference/blob/master/docs/tex/vignette.pdf)
+
+[Degenerate State Blog on Backdoor Adjestment](http://www.degeneratestate.org/posts/2018/Jul/10/causal-inference-with-python-part-2-causal-graphical-models/)
+
