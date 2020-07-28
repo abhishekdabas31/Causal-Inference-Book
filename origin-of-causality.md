@@ -4,7 +4,7 @@ description: The Birth of Causal Inference
 
 # Origin of Causality
 
-Statisticians have been considering and researching on causality for a very long time. Statisticians started working on causality in 1920. Causality has been recognized as another area of research since the 1970s. Causality has done immense progress in past 30 years!!
+Statisticians have been considering and researching on causality for a very long time. Statisticians started working on causality in 1920. Causality has been recognized as another area of research since the 1970s. Causality has done immense progress in the past 30 years!!
 
 **Mainly there are 2 Frameworks :**
 
@@ -19,7 +19,7 @@ There has been a Causal revolution - from statistics to counterfactual !!
 
 In recent years the field of causal inference has grown in scope and impact. Today, it's not only Judea Perl, but also researchers of MIT, and various other universities that agree on the need of causal models for human-like intelligence in machines [link](http://www.mit.edu/~tomeru/papers/machines_that_think.pdf)
 
-Causal Inference is now making its way into Machine Learning and Artificial Intelligence as people are increasingly talking about this significant research area.[ Yoshua Benjio statement. ](https://www.technologyreview.com/2018/11/17/66372/one-of-the-fathers-of-ai-is-worried-about-its-future/)
+Causal Inference is now making its way into Machine Learning and Artificial Intelligence as people are increasingly talking about this significant research area.
 
 
 

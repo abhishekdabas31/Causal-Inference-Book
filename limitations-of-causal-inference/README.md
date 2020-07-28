@@ -1,7 +1,5 @@
 # Limitations of Causal Inference
 
-
-
 1. **We cant estimate unit level effects.** ATE, the Average Treatment effect is calculated with the causal methods.
 2. There can be many possible DAG's even for a reasonable number of variables, building the correct one from observational data is very hard.
 3. **Multi-collinearity**: It is a big problem for Causal Models, as Causal Analysis mainly used regression Models\(according to current research\), wherein the independent variables should have been independent. If there is a high correlation between the independent variables, it causes problems in prediction by the model. It mainly undermines the statistical significance of an independent variable. Multi collinearity will affect the interpretability when we try to understand how we got there.

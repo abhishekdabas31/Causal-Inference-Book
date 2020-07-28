@@ -2,7 +2,7 @@
 description: Causal Glossary
 ---
 
-# Key Causal Terms and related Questions
+# Key Causal Terms and Related Questions
 
 * **What is the Causal Effect?**
 

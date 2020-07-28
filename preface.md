@@ -1,3 +1,7 @@
+---
+description: A Short Introduction to the Book!!
+---
+
 # Preface
 
 Our introduction towards the topic of Causal inference and causal reasoning came from a class the both of us took together in the Summer of 2020. The class was based around working on various research topics rotating around the overall idea of Computational Skepticism.
