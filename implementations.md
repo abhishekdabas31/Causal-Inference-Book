@@ -20,6 +20,8 @@ Uber is using causal inference methods that enable us to bring richer insights t
 
 "We’ve found it invaluable to bring causal inference methods to our work at Uber, as it enables us to solve challenging but critical data science questions that would otherwise be impossible to tackle, such as estimating the treatment effect when a randomized controlled experiment is not possible or addressing additional complexities within the experimental data." - Uber
 
+**It can help companies build better products by effective decision making** - Uber
+
 * [**Mediation Modelling at Uber** ](https://eng.uber.com/mediation-modeling/)**:**
 
 **Uber Labs has been using Mediation analysis as well.** Mediation modeling goes beyond simple cause and effect relationships in an attempt to understand what underlying mechanisms led to a result. Using this type of analysis, we can fine-tune product changes and develop new ones that focus on the underlying mechanisms behind successful features on the Uber platform.

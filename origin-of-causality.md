@@ -4,7 +4,7 @@ description: The start of Causal Inference
 
 # Origin of Causality
 
-Statisticians have been considering and researching on causality for a very long time. Statisticians started working on causality in 1920. Causality has been recognized as another area of research since the 1970s.
+Statisticians have been considering and researching on causality for a very long time. Statisticians started working on causality in 1920. Causality has been recognized as another area of research since the 1970s. Causality has done immense progress in past 30 years!!
 
 **Mainly there are 2 Frameworks :**
 
@@ -13,7 +13,7 @@ Statisticians have been considering and researching on causality for a very long
 
 Both of these frameworks have different usage and overall focus on the same concept.  
 
-Potential Outcome Framework has been really popular amongst statisticians. Donald Rubin has done a lot of work in developing the Potential Outcomes Framework. This started with more of a statistical approach    earlier. Later, Judea Perl started working on formalizing a new world of causal Inference. Judea Perl has contributed a lot in developing the field of Causal Inference and stating its importance in the field of AI.
+Potential Outcome Framework has been really popular amongst statisticians. Donald Rubin has done a lot of work in developing the Potential Outcomes Framework. This started with more of a statistical approach earlier. Later, Judea Perl started working on formalizing a new world of causal Inference. Judea Perl has contributed a lot in developing the field of Causal Inference and stating its importance in the field of AI.
 
 There has been a Causal revolution - from statistics to counterfactual !!
 

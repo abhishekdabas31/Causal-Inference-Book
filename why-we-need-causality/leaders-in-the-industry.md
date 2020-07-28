@@ -11,3 +11,13 @@ description: Opinion of the leaders
 
 2. Judea Pearl \(Awarded with the Turing Award in 2011\)
 
+
+
+
+
+
+
+
+
+* **"Causal Inference is Hard"**
+
