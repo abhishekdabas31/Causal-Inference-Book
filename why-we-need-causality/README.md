@@ -1,8 +1,8 @@
-# Why we need Causality
+# Why we need Causality?
 
 **13 Reasons Why?**
 
-1. Knowing and asking "**why**" is really important, Causality can help us answer this.
+1. Knowing and asking "**why**" is really about the data is important, Causality can help us answer this.
 2. Answering some really important questions: 
    1. What leads to the change in outcome?
    2. Does a change in the system improve the outcome?

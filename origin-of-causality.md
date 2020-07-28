@@ -1,5 +1,5 @@
 ---
-description: The start of Causal Inference
+description: The Birth of Causal Inference
 ---
 
 # Origin of Causality

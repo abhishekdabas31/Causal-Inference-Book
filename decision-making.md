@@ -1,4 +1,4 @@
-# Decision Making
+# Decision-Making
 
 **Types of data analysis :**
 
