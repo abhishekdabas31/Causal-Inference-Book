@@ -1,5 +1,7 @@
 # Experiment
 
+![](../../../../.gitbook/assets/image%20%2821%29.png)
+
 As we saw in the last section, randomization without bias is a super important aspect of A/B testing. However, while drawing a conclusion from the test performed, one should be certain that there are no external factors that might be affecting the way the results are showing up.
 
 One such example could be: Let's say a website was looking to test a new version of the website. Suppose post the running of the A/B test and getting the p-value the company determines that there is no significant difference between the old and the new website. However, old people who mostly visited the website in the morning loved the old website, and the young people who mostly visited the website in the evening loved the new one.

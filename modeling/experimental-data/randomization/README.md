@@ -8,6 +8,8 @@ E-Greedy Method
 
 *  A/B testing
 
+![](../../../.gitbook/assets/image%20%2819%29.png)
+
 **Why Randomization?**
 
 If a person knows that they are getting a placebo or an active drug, they might stop taking the drug which hence would introduce bias. If this study is not randomized then the causal difference might be due to how the patients reacted, which is actually not causal effect. being assigned Thus the allocation should be randomized. Randomization removes the worry about the treatment being correlated with other missing values. The extreme version of this correlation is confounding.  
@@ -27,11 +29,7 @@ A **randomized experiment hold the following true:**
 3. Stratified randomized experiment: Subgroups based on covariates X, are given a completely randomized experiments
 4. Paired Randomized experiments: Special case of stratified randomzied experiments with 2 samples in each group 
 
-
-
-
-
-Resource: 
+**Resource**: 
 
 [https://kojinoshiba.com/causal%20inference/what-are-experiments/](https://kojinoshiba.com/causal%20inference/what-are-experiments/)
 

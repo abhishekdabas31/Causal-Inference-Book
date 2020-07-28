@@ -1,5 +1,5 @@
 ---
-description: 'A causal Inference Library from Microsoft by Amit Sharma, Emre Kiciman'
+description: A causal Inference Library from Microsoft
 ---
 
 # DoWhy
