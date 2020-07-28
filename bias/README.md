@@ -9,8 +9,25 @@ description: Unfairness
 **Importance**: 
 
 1. Artificial Intelligence Models are increasingly being used in real-world use cases such as Loan Approval, Healthcare, Judiciary, etc which makes it imperative to on the AI community to minimize bias.  
+2. Learning more about bias helps us understand more about Human biases.
 
-**Fact**: Learning more about bias helps us understand more about Human biases.
+**Where does bias come from?**
+
+1. Data Collection
+2. Data inherently reflecting human bias\(cognitive bias\)
+3. Biased Feedback loops
+
+**Reducing Bias:**
+
+1. Awareness - find, understand and point out biases
+2. Bias mitigation methods
+
+**Challenges:**
+
+1. More than 180 biases have been defined and classified and any one of which can affect the decisions we make.
+2. Bias Feedback Loops
+
+
 
 
 

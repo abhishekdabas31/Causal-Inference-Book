@@ -53,24 +53,27 @@ In causal Analysis **Randomized controlled trials**, where the subjects are rand
 **Causal Modeling** is used to control the outcomes. **Example**: can I control the weather?, can I influence the patient's weather?, how can I influence the next video you watch?
 
 * **Examples of Causal Questions or Questions we can answer by knowing Causal Inference:**
-* How effective was a treatment in preventing disease?
-* Does drinking Wine prevent Heart disease?
-* Does passive smoking affect the mortality of non-smokers?
-* To what degree Covid-19 outcomes are affected by lung problems?
-* Was it the new tax break that caused sales to go up ? or the marketing campaign?
-* Does adding business hours attribute to an increase in user engagement?
-* Does rerouting users from the mobile site to downloading the mobile app increase page views?
+
+1. How effective was a treatment in preventing disease?
+2. Does drinking Wine prevent Heart disease?
+3. Does passive smoking affect the mortality of non-smokers?
+4. To what degree Covid-19 outcomes are affected by lung problems?
+5. Was it the new tax break that caused sales to go up ? or the marketing campaign?
+6. Does adding business hours attribute to an increase in user engagement?
+7. Does rerouting users from the mobile site to downloading the mobile app increase page views?
+
 * **Where causality fits in Machine learning**:
 
 **Causal Inference is like unsupervised Regression**: Causal effect Coefficients are unknown from the data, whose real-world values are not known and cant be used for training. Ex: How much does X cause Y.
 
 **Causal Structure Learning is like Unsupervised Classification**: Causal Structures are unknown and cant be used for training, thus they are unknown. Ex: What variables causes X, what variables don't cause X?
 
-1. **Challenges in Causal Analysis**:
-2. \*\*Association is not Causation\*\*
-3. Combatting Bias: There are many Possible sources of Bias in data
-4. Confounding
-5. Uncertainty in Causal Directionality
+* **Challenges in Causal Analysis**:
+
+1. \*\*Association is not Causation\*\*
+2. **Combatting Bias:** There are many Possible sources of Bias in data
+3. Confounding
+4. Uncertainty in Causal Directionality
 
 We are trying to remove the bias associations so that we get the real causes and effects
 
