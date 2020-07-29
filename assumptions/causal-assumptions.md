@@ -24,15 +24,23 @@ The potential outcome under treatment A=a, Y^a, is equal to the observed outcome
 
 This assumption states that conditional on pre-treatment covariates, the treatment assignment is independent of the potential outcomes. The treatment has to be randomly assigned and should not be dependent on the other covariates. If we are assigning the treatment to a population, it should be independent of who would be benefited from the treatment. Conditioning on variables \(confounders\) can help us make the treatment assignment randomized. This assumption can also be called "**No Unmeasured confounders**"
 
-Ideal Experiment : \(Y1, Y0\) ⊥ T -&gt; the potential outcomes, Y1 and Y0, must be jointly independent \(“⊥”\) of treatment assignment
+**Ideal Experiment**: the potential outcomes, Y1 and Y0, must be jointly independent \(“∐”\) of treatment assignment
 
-Observational Studies : \(Y1, Y0\) ⊥ T \| X -&gt; the potential outcomes, Y1 and Y0, must be jointly independent \(“⊥”\) of treatment assignment within groups defined by the value of X.
+$$
+Y1 , Y0\perp \!\!\!\perp T
+$$
+
+**Observational Studies:**  The potential outcomes, Y1 and Y0, must be jointly independent \(“∐”\) of treatment assignment within groups defined by the value of X.
+
+$$
+Y0 , Y1\perp \!\!\!\perp Y   | X
+$$
 
 * **Positivity Assumption**
 
 For every set of values for X, treatment assignment is not deterministic. It makes sure that even after controlling for variables, not all the population receives a particular treatment. This makes sure we have observational data on all the treatments for making correct assumptions about the potential outcome. Variability in treatment assignment is important for identification.
 
-**Hence, These Assumptions are very important to link the Observed data with potential outcome.**
+**Hence, These Assumptions are very important to link the Observed data with the potential outcome.**
 
 
 

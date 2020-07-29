@@ -15,7 +15,7 @@ description: The future of AI
    1. Spurious correlations
    2. Correlation is not Causation
    3. Confounders in the data
-4. Unlike the conventional Statistical Models, Causal Inference can help generate models that are more accurate as well as inherently Explainable.
+4. Unlike the conventional Statistical Models, Causal Inference can help generate models that are more accurate as well as inherently Explainable. We need causality because there are limitations to statistical models.
 5. **If we need more data or not?** It helps us in knowing if we can calculate the causal relationships from the data, or if we need more variables within our data for better estimation.
 6. Helps us understand the **Data Generating Process\(DGP\)**, which then leads us to ask more relevant questions \(Diagramatic representation of data is very important and helpful\)
 7. The Graphical approach of Causal Inference is more clear with respect to showcasing the objectives, assumptions, and conditions.
