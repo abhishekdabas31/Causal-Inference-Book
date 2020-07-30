@@ -10,7 +10,7 @@ Example: Comparing the Click-Through Rates\(CTR\) for A page and B page.
 
 A performs a little better than B
 
-* **Analysis when we stratify on one of the feature\("Age"\):**
+* **Analysis when we stratify on one of the features\("Age"\):**
 
 ![](../../../.gitbook/assets/image%20%2826%29.png)
 
