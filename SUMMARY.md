@@ -15,6 +15,7 @@
   * [Correlation is not Causation](bias/correlation-is-not-causation.md)
   * [Simpsons Paradox](bias/simpsons-paradox.md)
 * [Causal Graphs](causal-graphs/README.md)
+  * [Limitations of Causal Graphs](causal-graphs/limitations-of-causal-graphs.md)
   * [do-calculus](causal-graphs/do-calculus.md)
   * [Graph Theory](causal-graphs/paths.md)
   * [DAG](causal-graphs/dag.md)
