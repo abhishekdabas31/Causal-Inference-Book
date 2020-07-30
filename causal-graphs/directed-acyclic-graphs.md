@@ -1,5 +1,7 @@
 # Build your DAG
 
+**DAG** represents the flow of information by encapsulating all the features\(or variables/nodes\) into the graph**.**
+
 **Steps**:
 
 1. Draw the Causal DAG

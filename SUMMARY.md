@@ -16,7 +16,7 @@
   * [Simpsons Paradox](bias/simpsons-paradox.md)
 * [Causal Graphs](causal-graphs/README.md)
   * [do-calculus](causal-graphs/do-calculus.md)
-  * [Paths](causal-graphs/paths.md)
+  * [Graph Theory](causal-graphs/paths.md)
   * [Build your DAG](causal-graphs/directed-acyclic-graphs.md)
   * [Colliders](causal-graphs/colliders.md)
   * [Mediators](causal-graphs/mediators.md)

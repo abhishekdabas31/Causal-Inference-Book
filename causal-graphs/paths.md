@@ -2,15 +2,25 @@
 description: D-connection & D-separation
 ---
 
-# Paths
+# Graph Theory
 
 This concept is formalized by Judea Perl in 1995,  and Spirtes, Glymour, Scheines. it is a key part of Causal Graphs Theory. It is used to study the Independence properties of sub-graphs.
 
+* **A graph** is a set of nodes connected together through edges.
 * **Path -**   Consecutive sequence of arrows between the nodes irrespective of direction, disregarding their directionalities
 * **Blocked Path -** A collider in the paths, blocks the path.
 * **Unblocked Path -** No collider between the path, means its unblocked
 
-**Note**: A path can be blocked by conditioning on the variable or nodes in the path. example: conditioning on a mediator or a confounder can block the path. Completely opposite happens when we condition on a collider 
+**Note**: A path can be blocked by conditioning on the variable or nodes in the path. **Example**: conditioning on a mediator or a confounder can block the path. Completely opposite happens when we condition on a collider 
+
+**Nodes & Edges:**
+
+* The node at the entrance of the edge is called parent node
+* The node at the exit of the edge is called child node
+* Two noded connected edge to edge are called Adjacent nodes.
+* Degree of a node is the total number of edges coming in and going out of the node.
+
+**Note: The properties of a graph change when we add, remove, or change the direction of the paths.**
 
 _**D-connected and D-Separated \(**D stands for Directional**\):**_
 
@@ -29,8 +39,6 @@ _**D-connected and D-Separated \(**D stands for Directional**\):**_
 4. A collider that has a descendant that has been conditioned on does not block a path
 
 **Two variables are D-separated if all paths between them are blocked**. 
-
-\*\*\*\*
 
 ![X is D-connected to Y ](https://lh5.googleusercontent.com/is0nxWcWuZw21rkxdIJgNXbamOgdvIIduK038vX5j7MKm7h04mJCsNz6FSSOOxpRI_ozsGADavofLEWd94DHX2k2rSOGLEOvljPMhOJBmP2daKqEXSOTCHFYk3eVwCIxvT253P4E)
 
