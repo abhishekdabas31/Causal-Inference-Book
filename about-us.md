@@ -24,3 +24,7 @@ His hobbies include playing chess, reading and volunteering in community service
 
 [Website](https://www.abhijitkmenon.com/) \| [LinkedIn](https://www.linkedin.com/in/abhijit-krishna-menon/)
 
+**Mentor**:
+
+Professor Nik Bear Brown
+
