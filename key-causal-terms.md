@@ -6,7 +6,11 @@ description: Causal Glossary
 
 * **What is the Causal Effect?**
 
-The Causal effect can be defined as the difference or comparison between the true Potential outcomes of receiving and not receiving treatment. It is denoted as: Y\(Treatment\) - Y\(No-Treatment\)
+The Causal effect can be defined as the difference or comparison between the true Potential outcomes of receiving and not receiving treatment. It is denoted as:
+
+$$
+Y(Treatment) - Y(no Treatment)
+$$
 
 * **What does Cause Mean?**
 
@@ -14,11 +18,11 @@ It has been defined multiple times from Aristotle. But generally what we mean is
 
 * **Purpose of Causality?**
 
-To understand the true cause and effect relationship. For Example: if X causes and outcome Y or not? Does smoking cause cancer or not?
+To understand the true cause and effect relationship. For **Example**: if X causes and outcome Y or not? Does smoking cause cancer or not?
 
 * **What is an Estimand?** 
 
-Causal Estimand can be defined as the expectations of potential outcomes. It is the population that has to be estimated in statistical analysis. 
+Causal Estimand can be defined as the expectations of potential outcomes. It is the treatment effect that has to be estimated in statistical analysis or a clinical trial.
 
 * **What is Causal Lens or Data Generating process?** 
 

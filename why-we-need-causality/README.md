@@ -15,14 +15,14 @@ description: The future of AI
    1. Spurious correlations
    2. Correlation is not Causation
    3. Confounders in the data
-4. Unlike the conventional Statistical Models, Causal Inference can help generate models that are more accurate as well as inherently Explainable. We need causality because there are limitations to statistical models.
+4. Unlike the conventional Statistical Models, Causal Inference can help generate models that are more **accurate as well as inherently Explainable**. We need causality because there are limitations to statistical models.
 5. **If we need more data or not?** It helps us in knowing if we can calculate the causal relationships from the data, or if we need more variables within our data for better estimation.
 6. Helps us understand the **Data Generating Process\(DGP\)**, which then leads us to ask more relevant questions \(Diagramatic representation of data is very important and helpful\)
-7. The Graphical approach of Causal Inference is more clear with respect to showcasing the objectives, assumptions, and conditions.
+7. The Graphical approach of Causal Inference is more clear with respect to **explicitly defining the objectives, assumptions, and conditions**.
 8. Causal inference can lead us to better results for the **Decision-Making process** compared to just statistical inference.
-9. Helps us understand the importance and necessity of appropriate/relevant data. Even after having infinite data, we might miss important confounders, which hence can introduce bias in the model.
+9. Helps us understand the i**mportance and necessity of appropriate/relevant data.** Even after having infinite data, we might miss important confounders, which hence can introduce bias in the model.
 10. Importance of **Domain knowledge**, which come into use in formalizing the Causal Structure
-11. Importance of **Human Intervention**, in this case, Assumptions. Thus it combines the strength of humans along with Machines, which leads to more productivity and harnesses the full potential of AI.
+11. Importance of **Human Intervention**, in this case, **Assumptions**. Thus it combines the strength of humans along with Machines, which leads to more productivity and harnesses the full potential of AI.
 12. Implementation of causality can remove the algorithmic bias by **highlighting the biased features** within the data or the examples. Causal Inference meets the criterion for Bias and fairness
 13. It can help **build a Trustworthy & Responsible AI**
 
