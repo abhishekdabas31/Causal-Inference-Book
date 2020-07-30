@@ -7,7 +7,7 @@ Causal graphs are referred to as **DAG - Directed Acyclic Graphs**!!!
 1. **Directed Graphs**: When the arrow points to the direction of **the cause** of a variable. There has a particular direction of the path between the variables. **Directed graphs** have edges with direction.
 2. **UnDirected Graphs**: When there is a line between the variables showing that there is an association between them. **Undirected graphs** have edges that do not have a direction. 
 
-![](../.gitbook/assets/image%20%2820%29.png)
+![](../.gitbook/assets/image%20%2821%29.png)
 
 * **A Directed Graph can be of 2 types:**
 

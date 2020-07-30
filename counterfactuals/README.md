@@ -25,13 +25,5 @@ The simplest thing one can do to attempt to answer my counterfactual question: c
 
 **Conflict Here :** Some researchers have been trained using causal DAG, while others have been trained using counterfactuals, the use of different language creates confusion sometimes.
 
-
-
-
-
-Counterfactuals are independent of treatment received, as the outcome is same for both the groups
-
-Y,Outcome ⊥⊥ A,Treatment for all Treatment a
-
 **Resource**: [link](https://www.inference.vc/causal-inference-3-counterfactuals/), [Counterfactual prediction is not only for causal inference](https://link.springer.com/epdf/10.1007/s10654-020-00659-8?sharing_token=kV_G0mmo-GLt_VMxT1mAQve4RwlQNchNByi7wbcMAY42AdnWyM4OfVl8JP7D5adb3UNqXoMBumdL1pxYQD2LUm9m-c8_PzZXcjKx8x_DktYi5coJJY9kN0FptIhOklAgGc9znqVFZlAnBpLWkno67wS_g0diHlOzpCeO3_k6kLk%3D)
 

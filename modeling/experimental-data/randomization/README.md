@@ -2,13 +2,11 @@
 
 [Randomized controlled](https://en.wikipedia.org/wiki/Randomized_controlled_trial) tests are best to date, as we believe and agree that randomization is not biased. In this process, we randomly divide units into treatment and control groups before the action or intervention takes place, in an attempt to make these units comparable. Both the groups  \(treatment and control\) are given different treatments. Randomization makes these croups comparable, after which the outcome is observed. If we believe that data is separated without any bias, this is a very good method to for quick conclusions.
 
-E-Greedy Method
-
 1. Randomized Experiments:
 
 *  A/B testing
 
-![](../../../.gitbook/assets/image%20%2819%29.png)
+![](../../../.gitbook/assets/image%20%2820%29.png)
 
 **Why Randomization?**
 

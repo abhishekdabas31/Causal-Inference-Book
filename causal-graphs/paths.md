@@ -23,7 +23,7 @@ This concept is formalized by Judea Perl in 1995,  and Spirtes, Glymour, Scheine
 * Two noded connected edge to edge is called **Adjacent nodes.**
 * The **Degree of a node** is the total number of edges coming in and going out of the node.
 
-**Note: The properties of a graph change when we add, remove, or change the direction of the paths.**
+**Note:** The properties of a graph change when we add, remove, or change the direction of the paths.
 
 _**D-connected and D-Separated \(**D stands for Directional**\):**_
 
@@ -49,13 +49,11 @@ _**D-connected and D-Separated \(**D stands for Directional**\):**_
 
 ![ X and Y are not D-connected due to the collider B](https://lh6.googleusercontent.com/re3OIWEIJDZFdCCiBXYKbIAdBTQen666AoHz-4nD5qpnYatPxi-2E_TcUqivT1rCES_NIZS0EH56jPctDVSjx2Rdht-4LM1HIUdJAHX2OOGQ5PlYqx575HCN7BFY9ND0MQDZEr69)
 
-\*\*\*\*
-
-**Example**: As we see 1 has a **D-Connection** to 5;  2 is a **D-Separator** for connection between these as its dependent on 2 
+* **Example**: As we see 1 has a **D-Connection** to 5;  2 is a **D-Separator** for connection between these as its dependent on 2 
 
 ![](../.gitbook/assets/image%20%286%29.png)
 
-**Direct connection between X and Y can be :**
+**The Direct connection between X and Y can be :**
 
 1. Directly connected : X -&gt; Y
 
@@ -68,11 +66,11 @@ _**D-connected and D-Separated \(**D stands for Directional**\):**_
 
 **Conditional Independence:** It is important to understand that, two variables are only related if there is a path between them so that we can focus on the important paths between variables. The concept of conditional independence helps us understand and tells us whether a variable is independent or other or not.  
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2830%29.png)
 
-A and B are independent only when we condition on the variable "C", or we can say they become conditionally independent, conditioned on "C". **or we can say A and B are not independent, unless we condition on C.**
+A and B are independent only when we condition on the variable "C", or we can say they become conditionally independent, conditioned on "C". **or we can say A and B are not independent unless we condition on C.**
 
-Describing the interventions in the way has some immediate consequences**:**
+**Describing the interventions in the way has some immediate consequences:**
 
 1. X can only have some causal inference on Y if there is at least one directed path between X and Y. This is because if there is no directed path, with respect to the interventional graph the parents of X have been removed, so X⊥⊥Y in the intervential graph.
 2.  If there are _only_ directed paths between XX and YY, then the the causal influence of XX on YY is given by the simply by the conditional distribution P\(Y∣X\)P\(Y∣X\). This is because the interventional graph has the same paths between XX and YY as the observational distribution.
