@@ -8,8 +8,8 @@ This concept is formalized by Judea Perl in 1995,  and Spirtes, Glymour, Scheine
 
 **A graph** is a set of nodes connected together through edges.
 
-* **Nodes** are vertices that correspond to objects.
-* **Edges** are the connections between objects.
+* **Nodes** are vertices that correspond to objects. They are represented by circles\(but can be of any other shape as well\)
+* **Edges** are the connections between objects. They are represented by lines with arrows.
 * **Path -** Consecutive sequence of arrows between the nodes irrespective of direction, disregarding their directionalities
 * **Blocked Path -** A collider in the paths, blocks the path.
 * **Unblocked Path -** No collider between the path, means its unblocked

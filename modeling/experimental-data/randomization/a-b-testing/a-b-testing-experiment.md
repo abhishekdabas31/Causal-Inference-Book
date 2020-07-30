@@ -1,6 +1,6 @@
 # Experiment
 
-![](../../../../.gitbook/assets/image%20%2821%29.png)
+![](../../../../.gitbook/assets/image%20%2822%29.png)
 
 As we saw in the last section, randomization without bias is a super important aspect of A/B testing. However, while drawing a conclusion from the test performed, one should be certain that there are no external factors that might be affecting the way the results are showing up.
 

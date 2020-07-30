@@ -2,7 +2,7 @@
 
 A/B testing is an example of a **completely randomized trial**. It is considered as a standard and basic test for randomized controlled experiments.
 
-![](../../../../.gitbook/assets/image%20%2822%29.png)
+![](../../../../.gitbook/assets/image%20%2823%29.png)
 
 It is a very basic and effective way of testing two versions of things and figure out which version performs better. It is a randomized experiment testing method with two variants **A and B**, then statistically testing which one is better. The main **responsibility and use of A/B testing** are done to experiment with new ideas for testing Machine Learning Models and actions to improve existing ones. It does the testing and reports the statistics for it. In A/B testing we are actually **controlling** how to allocate users to different groups. It is a gold standard method for understanding the **causal relationship.**
 
