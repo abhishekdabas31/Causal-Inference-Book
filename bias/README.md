@@ -30,7 +30,7 @@ $$
 
 **Challenges:**
 
-1. More than 180 biases have been defined and classified and any one of which can affect the decisions we make.
+1. More than **180 biases** have been defined and classified and any one of which can affect the decisions we make.
 2. Bias Feedback Loops
 
 

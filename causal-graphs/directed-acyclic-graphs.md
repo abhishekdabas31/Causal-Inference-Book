@@ -4,10 +4,9 @@
 
 **Steps**:
 
-1. Draw the Causal DAG
-2. Write all the Paths from X to Y
-3. Identify Front door and Back Door Paths
-4. On a given path, is there is a collider
+1. Write all the Paths from X to Y
+2. Identify Front door and Back Door Paths
+3. On a given path, is there is a collider
 
 **Characteristics** : 
 
