@@ -1,6 +1,6 @@
 # Real-World Implementations
 
-The field of causal AI is developing very rapidly and alot of fields are currently adopting the graph-based approaches to causality.  
+The field of causal AI is developing very rapidly and a lot of fields are currently adopting the graph-based approaches with causality.  
 
 * [**Revolutionizing Biotech and Pharmaceuticals**](https://opendatascience.com/fastest-growing-sectors-of-ai-investment/)**:**
 
@@ -10,7 +10,7 @@ A very good read: [The future of clinical Trials](https://www.cbinsights.com/res
 
 * [**GNS Healthcare: A Boston Healthcare company**](https://www.gnshealthcare.com/)\*\*\*\*
 
-AIM:  GNS Healthcare accelerates the discovery and development of drugs to improve patient outcomes and significantly reduce total cost of patient care. Our causal AI technology integrates and transforms a wide variety of patient data types into _in silico_ patients which reveal the complex system of interactions underlying disease progression and drug response. The _in silico_ patients enables the simulation of drug response at the individual patient level across oncology, auto-immune, neurology, and cardio-metabolic disease in partnership with the world’s largest biopharma companies and health plan
+**AIM**:  GNS Healthcare accelerates the discovery and development of drugs to improve patient outcomes and significantly reduce total cost of patient care. Our causal AI technology integrates and transforms a wide variety of patient data types into _in silico_ patients which reveal the complex system of interactions underlying disease progression and drug response. The _in silico_ patients enables the simulation of drug response at the individual patient level across oncology, auto-immune, neurology, and cardio-metabolic disease in partnership with the world’s largest biopharma companies and health plan
 
 * [**Using causal Inference to improve the Uber user-experience**](https://eng.uber.com/causal-inference-at-uber/)**:**
 
@@ -27,5 +27,6 @@ Uber is using causal inference methods that enable us to bring richer insights t
 **Uber Labs has been using Mediation analysis as well.** Mediation modeling goes beyond simple cause and effect relationships in an attempt to understand what underlying mechanisms led to a result. Using this type of analysis, we can fine-tune product changes and develop new ones that focus on the underlying mechanisms behind successful features on the Uber platform.
 
 * **Netflix Quasi Experiments:** 
-* \*\*\*\*[**https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d**](https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d)\*\*\*\*
+
+\*\*\*\*[**https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d**](https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d)\*\*\*\*
 

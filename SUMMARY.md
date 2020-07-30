@@ -14,7 +14,6 @@
   * [Selection Bias](bias/selection-bias.md)
   * [Correlation is not Causation](bias/correlation-is-not-causation.md)
   * [Simpsons Paradox](bias/simpsons-paradox.md)
-* [Untitled](untitled.md)
 * [Causal Graphs](causal-graphs/README.md)
   * [do-calculus](causal-graphs/do-calculus.md)
   * [Graph Theory](causal-graphs/paths.md)
