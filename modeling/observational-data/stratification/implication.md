@@ -10,11 +10,20 @@ Example: Comparing the Click-Through Rates\(CTR\) for A page and B page.
 
 A performs a little better than B
 
-* **Analysis when we stratify on one of the features\("Age"\):**
+* **Analysis on removal of over sampling for Old people in the data set. 
+
 
 ![](../../../.gitbook/assets/image%20%2826%29.png)
 
 **B performs better than A**
+
+* **Analysis when we stratify on one of the features\("Age"\):**
+
+![](../../../.gitbook/assets/old_stratified.png)
+![](../../../.gitbook/assets/young_stratified.png)
+
+We see that the performance of A and B depends on the age of the person and that is the reason we were getting flawed inferences earlier. 
+
 
 \*\*\*\*
 
