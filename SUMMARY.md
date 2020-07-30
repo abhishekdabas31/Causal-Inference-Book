@@ -17,6 +17,7 @@
 * [Causal Graphs](causal-graphs/README.md)
   * [do-calculus](causal-graphs/do-calculus.md)
   * [Graph Theory](causal-graphs/paths.md)
+  * [DAG](causal-graphs/dag.md)
   * [Build your DAG](causal-graphs/directed-acyclic-graphs.md)
   * [Colliders](causal-graphs/colliders.md)
   * [Mediators](causal-graphs/mediators.md)

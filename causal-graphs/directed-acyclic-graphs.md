@@ -1,6 +1,6 @@
 # Build your DAG
 
-**DAG** represents the flow of information by encapsulating all the features\(or variables/nodes\) into the graph**.**
+**DAG** represents the flow of information by encapsulating all the features\(or variables/nodes\) into the graph**. They make information easy to analyse, interpret and conclude.**
 
 **Steps**:
 

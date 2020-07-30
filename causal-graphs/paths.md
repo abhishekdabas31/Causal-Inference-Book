@@ -6,8 +6,11 @@ description: D-connection & D-separation
 
 This concept is formalized by Judea Perl in 1995,  and Spirtes, Glymour, Scheines. it is a key part of Causal Graphs Theory. It is used to study the Independence properties of sub-graphs.
 
-* **A graph** is a set of nodes connected together through edges.
-* **Path -**   Consecutive sequence of arrows between the nodes irrespective of direction, disregarding their directionalities
+**A graph** is a set of nodes connected together through edges.
+
+* **Nodes** are vertices that correspond to objects.
+* **Edges** are the connections between objects.
+* **Path -** Consecutive sequence of arrows between the nodes irrespective of direction, disregarding their directionalities
 * **Blocked Path -** A collider in the paths, blocks the path.
 * **Unblocked Path -** No collider between the path, means its unblocked
 
@@ -15,10 +18,10 @@ This concept is formalized by Judea Perl in 1995,  and Spirtes, Glymour, Scheine
 
 **Nodes & Edges:**
 
-* The node at the entrance of the edge is called parent node
-* The node at the exit of the edge is called child node
-* Two noded connected edge to edge are called Adjacent nodes.
-* Degree of a node is the total number of edges coming in and going out of the node.
+* The node at the entrance of the edge is called the **Parent node.**
+* The node at the exit of the edge is called the **Child node.**
+* Two noded connected edge to edge is called **Adjacent nodes.**
+* The **Degree of a node** is the total number of edges coming in and going out of the node.
 
 **Note: The properties of a graph change when we add, remove, or change the direction of the paths.**
 

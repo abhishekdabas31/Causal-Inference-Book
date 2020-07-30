@@ -1,6 +1,11 @@
 # Causal Graphs
 
-Causal graphs are referred to as **DAG -** Directed Acyclic Graphs.
+Causal graphs are referred to as **DAG -** Directed Acyclic Graphs!!!
+
+* **There are 2 types of graphs:**
+
+1. **Undirected graphs** have edges that do not have a direction.
+2. **Directed graphs** have edges with direction.
 
 Causal Diagrams represent association and causation both, simultaneously. They help us think better. We need expert knowledge to construct causal DAG, which in many cases might not be possible. So we construct multiple DAG, without being able to choose the correct one.
 
