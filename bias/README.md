@@ -8,7 +8,9 @@ description: Unfairness
 
 A model is said to be biased if the predictor \(**y**\) is independent of the protected attribute \(**p**\) such that :
 
-* P\(y \| p\) =/= P\( y \) 
+$$
+P(y | p) \neq P( y )
+$$
 
 **Importance**: 
 
