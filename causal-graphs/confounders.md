@@ -24,5 +24,5 @@ X - Medication , Y - stroke,  Z - History of heart disease , U - Weak arteries
 
 
 
-**Note**: If we are not aware of confounders and do not control for them, it can lead to bias within the causal relationship.
+**Note**: If we are not aware of confounders and do not control them, it can lead to bias within the causal relationship. As well as misinterpreting confounding and controlling for them can lead to biased results.
 
