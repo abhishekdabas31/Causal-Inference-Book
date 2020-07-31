@@ -6,6 +6,8 @@ description: Unfairness
 
 **Definition:** The unjust or prejudicial treatment of different kinds of individuals from different categories/groups resulting in favor\(benefits & opportunities\) of a particular group. It is usually based on age, sex, skin color, language, economic condition, etc. 
 
+In artificial intelligence, it can be considered as an incorrect interpretation of the true relationship between the exposure and the outcome. Biases in the model can distort the true causal relationship.
+
 A model is said to be biased if the predictor \(**y**\) is independent of the protected attribute \(**p**\) such that :
 
 $$

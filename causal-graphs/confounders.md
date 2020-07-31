@@ -22,3 +22,7 @@ X - Medication , Y - stroke,  Z - History of heart disease , U - Weak arteries
 
 ![](../.gitbook/assets/image%20%288%29.png)
 
+
+
+**Note**: If we are not aware of confounders and do not control for them, it can lead to bias within the causal relationship.
+
