@@ -26,5 +26,7 @@ His hobbies include playing chess, reading and volunteering in community service
 
 **Mentor**:
 
-Professor Nik Bear Brown
+Professor Nik Bear Brown - Assistant teaching professor at Northeastern University
+
+[LinkedIn](https://www.linkedin.com/in/nikbearbrown/) 
 
