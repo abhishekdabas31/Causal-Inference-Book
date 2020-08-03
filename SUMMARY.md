@@ -15,6 +15,7 @@
   * [Correlation is not Causation](bias/correlation-is-not-causation.md)
   * [Simpsons Paradox](bias/simpsons-paradox.md)
 * [Causal Graphs](causal-graphs/README.md)
+  * [Structural Causal Model](causal-graphs/structural-causal-model.md)
   * [do-calculus](causal-graphs/do-calculus.md)
   * [Graph Theory](causal-graphs/paths.md)
   * [Build your DAG](causal-graphs/directed-acyclic-graphs.md)
