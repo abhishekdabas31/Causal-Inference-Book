@@ -1,10 +1,26 @@
+---
+description: Understanding the Causal Effects in Potential Outcomes Framework
+---
+
 # Potential Outcomes Framework
 
 Potential Outcome Framework has helped in giving causal effects very precise definitions.
 
-**Causal Effects in Potential Outcomes Framework :**
+**The Potential outcome** is the outcome that would be observed if an individual is given a specific value of the treatment. It is the study of the effect of treatment at an individual level. For every Individual one can not simultaneously observe the 2 potential Outcomes, we can only observe one. Here, the unobserved outcome is called the **"Counterfactual Outcome ".**
 
-**Potential outcome** is the outcome that would be observed if an individual is given a specific value of the treatment. For every Individual one can not simultaneously observe the 2 potential Outcomes, we can only observe one. Here, the unobserved outcome is called the **"Counterfactual Outcome ".**
+**Two possible treatments, T - Treatment received or not received\(Placebo\)**
+
+$$
+T ∈ \{0,1\}
+$$
+
+**Two possible outcomes, Y - the outcome is there or not there**
+
+$$
+\{Y_i (0) ,Y_i(1)\}
+$$
+
+**Note: Quantities we are trying to measure here is not observable!!**
 
 **Example:** What is the causal effect of doing a Master's degree and getting a high paying job?
 
