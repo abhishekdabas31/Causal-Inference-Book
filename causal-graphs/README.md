@@ -43,8 +43,8 @@ Causal graphs also referred to as **DAG - Directed Acyclic Graphs**!!!
 
 1. Model testing
 2. Structure learning
-3. Reduce "what if" questions to symbolic calculus
-4. Reducing scientific questions to symbolic calculus
+3. Reduce "what if" questions to symbolic calculus\(Testable implications\)
+4. Reducing scientific questions to symbolic calculus\(Testable implications\)
 
 
 
