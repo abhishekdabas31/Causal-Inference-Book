@@ -1,12 +1,12 @@
 ---
-description: D-connection & D-separation
+description: The study of graphs!!
 ---
 
 # Graph Theory
 
-This concept is formalized by Judea Perl in 1995,  and Spirtes, Glymour, Scheines. it is a key part of Causal Graphs Theory. It is used to study the Independence properties of sub-graphs.
+Graph theory has been a part of mathematics which was originated by Leonard Euler!! Later this concept was used and formalized by Judea Perl in 1995, and Spirtes, Glymour, Scheines. It is a key part of Causal Graphs Theory. It is used to study the Independence properties of sub-graphs.
 
-**A graph** is a set of nodes connected together through edges.
+**A graph** is a network of nodes connected together through edges.
 
 * **Nodes** are vertices that correspond to objects. They are represented by circles\(but can be of any other shape as well\)
 * **Edges** are the connections between objects. They are represented by lines with arrows.
@@ -21,9 +21,13 @@ This concept is formalized by Judea Perl in 1995,  and Spirtes, Glymour, Scheine
 * The node at the entrance of the edge is called the **Parent node.**
 * The node at the exit of the edge is called the **Child node.**
 * Two noded connected edge to edge is called **Adjacent nodes.**
+* The parents of the parent node are known as the **Ancestor nodes**
 * The **Degree of a node** is the total number of edges coming in and going out of the node.
 
-**Note:** The properties of a graph change when we add, remove, or change the direction of the paths.
+**Note:** 
+
+* The likelihood of a node depends on the likelihood of its predecessors or its parents in the DAG
+* The properties of a graph change when we add, remove, or change the direction of the paths.
 
 _**D-connected and D-Separated \(**D stands for Directional**\):**_
 

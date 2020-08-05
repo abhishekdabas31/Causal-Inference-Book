@@ -1,3 +1,7 @@
+---
+description: Bayesian Network
+---
+
 # Testable Implications
 
 **DAG can help us with probability Distributions as well:**

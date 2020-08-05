@@ -19,7 +19,10 @@ Causal graphs also referred to as **DAG - Directed Acyclic Graphs**!!!
 1. Directed paths \(No undirected paths\) between variables. 
 2. Acyclic graphs 
 
-* **Note**: We require the graph to be acyclic to prevent "causal loops". A DAG must not contain a feedback loop where a variable causes itself.
+**Note**: **Why Acyclic?**
+
+* A causal arrow represents the time associated with the node, which increases as we follow the paths in the graph so that there is no path in order to return to the same node. Causality represents that a particular event or treatment affects the future and cant affect the past, hence there are no causal Loops.
+* We require the graph to be acyclic to prevent "causal loops". A DAG must not contain a feedback loop where a variable causes itself.
 
 **Causal graphs** provide a way to visualize the causal relationships between the treatment, the outcome, and all the biases \(confounder bias, selection bias, and others\) altogether. **Causal Graphs** represent association and causation both, simultaneously. **They help us think better.** They allow us to think in a new way about solving a problem.
 
