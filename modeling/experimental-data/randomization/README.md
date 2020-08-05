@@ -1,6 +1,10 @@
+---
+description: Randomized Control Trial (RCT)
+---
+
 # Randomization
 
-[Randomized controlled](https://en.wikipedia.org/wiki/Randomized_controlled_trial) tests are best to date, as we believe and agree that randomization is not biased. In this process, we randomly divide units into treatment and control groups before the action or intervention takes place, in an attempt to make these units comparable. Both the groups  \(treatment and control\) are given different treatments. Randomization makes these croups comparable, after which the outcome is observed. If we believe that data is separated without any bias, this is a very good method to for quick conclusions.
+[Randomized controlled](https://en.wikipedia.org/wiki/Randomized_controlled_trial) tests are best to date, as we believe and agree that randomization is not biased. In this process, we randomly divide units into treatment and control groups before the action or intervention takes place, in an attempt to make these units comparable. Both the groups  \(treatment and control\) are given different treatments. Randomization makes these croups comparable, after which the outcome is observed. If we believe that data is separated without any bias, this is a very good method for quick conclusions.
 
 1. Randomized Experiments:
 
@@ -10,7 +14,7 @@
 
 **Why Randomization?**
 
-If a person knows that they are getting a placebo or an active drug, they might stop taking the drug which hence would introduce bias. If this study is not randomized then the causal difference might be due to how the patients reacted, which is actually not a causal effect. being assigned Thus the allocation should be randomized. Randomization removes the worry about the treatment being correlated with other missing values. The extreme version of this correlation is confounding.  
+If a person knows that they are getting a placebo or an active drug, they might stop taking the drug which hence would introduce bias. If this study is not randomized then the causal difference might be due to how the patients reacted, which is actually the true causal effect. Thus the allocation should be randomized. Randomization removes the worry about the treatment being correlated with other missing values. The extreme version of this correlation is confounding. **Example**: Understanding the causal effect of medication to cure a disease, can be tested through randomized control trial\(RCT\), where some people are randomly given the treatment and some placebo\(Control group\). The outcome of this can be considered as a causal effect because the treatment is randomly assigned and all possible confounders are removed through this process of randomization. 
 
 A **randomized experiment holds the following true \(Assumptions\):**
 
