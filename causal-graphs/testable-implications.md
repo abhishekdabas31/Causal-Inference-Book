@@ -4,6 +4,8 @@ description: Bayesian Network
 
 # Testable Implications
 
+The [Bayesian network](https://en.wikipedia.org/wiki/Bayesian_network) represents the probabilistic relationships between the treatment and the outcome. The conditional dependencies drawn from the DAG are used for performing inference and for learning more about these networks
+
 **DAG can help us with probability Distributions as well:**
 
 1. Variables that are independent from each other

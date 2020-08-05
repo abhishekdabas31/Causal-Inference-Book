@@ -10,9 +10,9 @@ Our introduction towards the topic of Causal inference and causal reasoning came
 
 Both of us decided to focus on the research topic of Causal Inference. We had initially thought that we would be able to **bring up something novel in the field** and started working with that goal in our heads. However, as we kept going through our literature survey we realized we had a massive task on our hands. Most of the literature on Causal Inference is so incredibly diverse and spread out into so many different fields that it was taking us a really long time to even grasp some of the basic concepts of Causal inference as a whole.
 
-This is when we decided to switch paths. We decided that before we go about building something novel in the area of Causal Inference we had to compile all our learnings into one place so that it is much easier for us to refer back to in the future. Doing this would also allow us to  help through this compilation other lone wanderers who decide to step into this vast forest of Causal Inference.
+This is when we decided to switch paths. We decided that before we go about building something novel in the area of Causal Inference we had to compile all our learnings into one place so that it is much easier for us to refer back to in the future. Doing this would also allow us to help through this compilation other lone wanderers who decide to step into this vast forest of Causal Inference.
 
-Initially,  both of us started documenting our understanding and experimentation in the world of Causal Inference in the form of medium articles and Google collab notebooks. Once we covered more ground, we started putting in all our findings and resources in the form of this book.
+Initially, both of us started documenting our understanding and experimentation in the world of Causal Inference in the form of medium articles and Google collab notebooks. Once we covered more ground, we started putting in all our findings and resources in the form of this book.
 
 **Goal**
 

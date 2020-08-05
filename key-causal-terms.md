@@ -24,7 +24,7 @@ To understand the true cause and effect relationship. For **Example**: if X caus
 
 Causal Estimand can be defined as the expectations of potential outcomes. It is the treatment effect that has to be estimated in statistical analysis or a clinical trial.
 
-* **What is Causal Lens or Data Generating process?** 
+* **What is the Causal Lens or Data Generating process?** 
 
 There is an **unknown but true Data Generating Process \(DGP\)** that exists and explains the world. It explains the question which we really need answers for, from the data. **Task**: Infer properties of DGP using data and assumptions\(since we don't know about\) about other properties of DGP. By this **we are trying to predict the consequences of interventions.**
 
@@ -52,9 +52,8 @@ In causal Analysis **Randomized controlled trials**, where the subjects are rand
 
 * **Predictive Modeling vs Causal Modeling:** 
 
-**Predictive Modeling** is about predicting the outcomes. **Example:** predicting weather, elections, predict videos one will watch
-
-**Causal Modeling** is used to control the outcomes. **Example**: can I control the weather?, can I influence the patient's weather?, how can I influence the next video you watch?
+1. **Predictive Modeling** is about predicting the outcomes. **Example:** predicting weather, elections, predict videos one will watch?
+2. **Causal Modeling** is used to control the outcomes. **Example**: can I control the weather?, can I influence the patient's weather?, how can I influence the next video you watch?
 
 * **Examples of Causal Questions or Questions we can answer by knowing Causal Inference:**
 
@@ -68,9 +67,8 @@ In causal Analysis **Randomized controlled trials**, where the subjects are rand
 
 * **Where causality fits in Machine learning**:
 
-**Causal Inference is like unsupervised Regression**: Causal effect Coefficients are unknown from the data, whose real-world values are not known and cant be used for training. Ex: How much does X cause Y.
-
-**Causal Structure Learning is like Unsupervised Classification**: Causal Structures are unknown and cant be used for training, thus they are unknown. Ex: What variables causes X, what variables don't cause X?
+1. **Causal Inference is like unsupervised Regression**: Causal effect Coefficients are unknown from the data, whose real-world values are not known and cant be used for training. Ex: How much does X cause Y.
+2. **Causal Structure Learning is like Unsupervised Classification**: Causal Structures are unknown and cant be used for training, thus they are unknown. Ex: What variables causes X, what variables don't cause X?
 
 * **Challenges in Causal Analysis**:
 
@@ -81,7 +79,13 @@ In causal Analysis **Randomized controlled trials**, where the subjects are rand
 
 We are trying to remove the bias associations so that we get the real causes and effects
 
-![](.gitbook/assets/image%20%281%29.png)
+* **What is the Causal Hierarchy?**
+
+![](.gitbook/assets/image%20%2832%29.png)
+
+1. **Association**: The initial level at which most Machine learning models operate
+2. **Intervention**: The 2nd level where we understand how our actions affect the environment
+3. **Counterfactuals**: The level at which we can ask the "what if" questions
 
 \*\*\*\*
 

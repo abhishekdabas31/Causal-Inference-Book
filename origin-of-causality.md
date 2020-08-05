@@ -8,12 +8,12 @@ Statisticians have been considering and researching on causality for a very long
 
 **Mainly there are 2 Frameworks :**
 
-1. **Rubin Causal Model \(RCM\) by Rubin-Neyman -** Potential Outcomes Framework ****Control Group Experiments
+1. **Rubin Causal Model \(RCM\) by** [**Rubin-Neyman** ](https://en.wikipedia.org/wiki/Rubin_causal_model)**-** Potential Outcomes Framework ****Control Group Experiments
 2. **Structural Causal Model \(SCM\) by Judea Perl** - Causal Graphical Models, Causal Diagrams and Do-Calculus
 
 * _Both of these frameworks have different usage but overall focus on the same concept!!_
 
-**Potential Outcome Framework** has been really popular amongst statisticians. **Donald Rubin** has done a lot of work in developing the Potential Outcomes Framework. This started with more of a statistical approach earlier. Later, Judea Perl started working on formalizing a new world of Causal Inference. Judea Perl has contributed a lot in developing this field of Causal Inference and stating its importance in the field of AI.
+**Potential Outcome Framework** has been really popular amongst statisticians. **Donald Rubin** has done a lot of work in developing the Potential Outcomes Framework. This started with more of a statistical approach earlier. Later, Judea Perl started working on formalizing a new world of Causal Inference. He did a lot Jof work earlier in Bayesian Networks and worked on the graphical approach to formalize causality. Then he came up with the **Structural Causal Model\(SCM\)** which provides a clear picture of mathematical tools to be used for causal conclusions. Judea Perl has contributed a lot in developing this field of Causal Inference and stating its importance in the field of Artificial Intelligence. His recent work "**The Book of Why**", states how understanding causality has revolutionized science and will revolutionize Artificial Intelligence. His approach has ignited a discussion about the future of AI,  and whether deep learning and other breakthroughs are enough for approaching the human-level intelligence.
 
 There has been a Causal Revolution - **from Statistics to Counterfactual** !!
 

@@ -4,7 +4,7 @@ description: The future of AI
 
 # Why we need Causality?
 
-**13 Reasons Why?**
+The Reasons for **"Why?",** seems like its the most important question.
 
 1. Knowing and asking "**why**" is really about the data is important, Causality can help us answer this.
 2. Answering some really important questions: 
@@ -25,4 +25,6 @@ description: The future of AI
 11. Importance of **Human Intervention**, in this case, **Assumptions**. Thus it combines the strength of humans along with Machines, which leads to more productivity and harnesses the full potential of AI.
 12. Implementation of causality can remove the algorithmic bias by **highlighting the biased features** within the data or the examples. Causal Inference meets the criterion for Bias and fairness
 13. It can help **build a Trustworthy & Responsible AI**
-
+14. The difference between humans and machines is that humans can distinguish between cause and effect. Adding causality to machines can help us **achieve Human-Level Intelligence.**
+15. To build a strong AI we need to emulate how humans think about the cause and effect.
+16. 
