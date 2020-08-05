@@ -1,6 +1,6 @@
 # Causal Graphs
 
-Causal graphs are referred to as **DAG - Directed Acyclic Graphs**!!! 
+Causal graphs also referred to as **DAG - Directed Acyclic Graphs**!!! 
 
 * **There are 2 types of graphs:**
 
@@ -21,7 +21,7 @@ Causal graphs are referred to as **DAG - Directed Acyclic Graphs**!!!
 
 * **Note**: We require the graph to be acyclic to prevent "causal loops". A DAG must not contain a feedback loop where a variable causes itself.
 
-**Causal graphs** provide a way to visualize the causal relationships between the treatment, the Outcome, and all the biases\(confounder bias and others\) altogether. **Causal Graphs** represent association and causation both, simultaneously. **They help us think better.** They allow us to think in a new way about solving a problem.
+**Causal graphs** provide a way to visualize the causal relationships between the treatment, the outcome, and all the biases \(confounder bias, selection bias, and others\) altogether. **Causal Graphs** represent association and causation both, simultaneously. **They help us think better.** They allow us to think in a new way about solving a problem.
 
 **Note**: Causal Graphs are essential because they explicitly define the underlying assumptions.
 
