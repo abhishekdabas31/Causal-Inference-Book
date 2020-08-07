@@ -87,5 +87,9 @@ We are trying to remove the bias associations so that we get the real causes and
 2. **Intervention**: The 2nd level where we understand how our actions affect the environment
 3. **Counterfactuals**: The level at which we can ask the "what if" questions
 
+* **What is Intervention?**
+
+If we take a variable and set a manually to a different value, without changing anything else is known as process of doing Intervention. We do it all the time to understand the causal relationships.
+
 \*\*\*\*
 
