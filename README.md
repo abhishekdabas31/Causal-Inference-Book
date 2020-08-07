@@ -8,7 +8,7 @@ description: Encapsulating Causal Inference
 
 "In Addition, Everything that becomes or changes must do so owing to some cause. For Nothing can come to be without a cause."
 
--- [Plato](https://en.wikipedia.org/wiki/Plato) in [Timaeus](https://en.wikipedia.org/wiki/Timaeus_(dialogue))
+-- [Plato](https://en.wikipedia.org/wiki/Plato) in Timaeus
 
 ![](.gitbook/assets/image%20%2822%29.png)
 
