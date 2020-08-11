@@ -8,7 +8,7 @@ Causality describe a relationship between 2 or more things, where a change in on
 
 ![](.gitbook/assets/causality-a-b.jpeg)
 
-Causality plays a massive role in the way humans learn to perceive the world around us. All of our understanding of the world initially comes through understanding of the various cuases and effects that surround us.
+Causality plays a massive role in the way humans learn to perceive the world around us. All of our understanding of the world initially comes through understanding of the various causes and effects that surround us.
 
 Not just that, but our ability to act around the world comes from a grasp of the causal relation between the various aspects around the world.
 
