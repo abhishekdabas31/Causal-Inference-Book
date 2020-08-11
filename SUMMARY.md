@@ -2,7 +2,7 @@
 
 * [Guide to Causal Inference](README.md)
 * [Table of Contents](contents.md)
-* [About Us](about-us.md)
+* [About-us](about-us.md)
 * [Preface](preface.md)
 * [What is Causality?](what-is-causality.md)
 * [Origin of Causality](origin-of-causality.md)
