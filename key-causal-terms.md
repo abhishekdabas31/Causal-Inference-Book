@@ -89,7 +89,7 @@ It is also known as Pearl causal Hierarchy or ladder of causation.
 2. **Intervention**: The 2nd level where we understand how our actions affect the environment
 3. **Counterfactuals**: The level at which we can ask the "what if" questions
 
-**Note**: The lower you go into the table the more you know about the real world causal Model. 
+**Note**: The lower you go into the table the more you know about the real world causal Model. The higher in the level you are, the better idea we have about the real world.
 
 * **What is Intervention?**
 
