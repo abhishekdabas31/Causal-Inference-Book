@@ -97,5 +97,7 @@ It is also known as Pearl causal Hierarchy or ladder of causation.
 
 If we take a variable and set a manually to a different value\( a change that specific value to something different\), without changing anything else is known as the process of doing an Intervention. We do it all the time with the causal model to understand causal relationships. It can be thought of as coming from outside and doing some change in the model manually and try to make an inference about the output after that intervention. 
 
+* **Structural Causal Model vs Structural Equation Model?**
+
 \*\*\*\*
 

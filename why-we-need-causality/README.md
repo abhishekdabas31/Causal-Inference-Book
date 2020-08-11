@@ -4,7 +4,7 @@ description: The future of AI
 
 # Why we need Causality?
 
-The Reasons for **"Why?",** seems like its the most important question.
+The Reasons for **"Why?",** seems like its the most important question here!!
 
 1. Knowing and asking "**why**" is really about the data is important, Causality can help us answer this.
 2. Answering some really important questions: 
