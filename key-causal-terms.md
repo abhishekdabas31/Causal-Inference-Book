@@ -89,7 +89,7 @@ We are trying to remove the bias associations so that we get the real causes and
 
 * **What is Intervention?**
 
-If we take a variable and set a manually to a different value, without changing anything else is known as process of doing Intervention. We do it all the time to understand the causal relationships.
+If we take a variable and set a manually to a different value\( change that specific value to something different\), without changing anything else is known as the process of doing an Intervention. We do it all the time with the causal model to understand causal relationships. It can be thought of as coming from outside and doing some change in the model manually and try to make an inference about the output after that intervention. 
 
 \*\*\*\*
 
