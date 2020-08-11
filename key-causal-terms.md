@@ -2,7 +2,7 @@
 description: Causal Glossary
 ---
 
-# Key Causal Terms and Related Questions
+# Key Causal Terms and FAQ
 
 * **What is the Causal Effect?**
 
@@ -81,15 +81,21 @@ We are trying to remove the bias associations so that we get the real causes and
 
 * **What is the Causal Hierarchy?**
 
+It is also known as Pearl causal Hierarchy or ladder of causation. 
+
 ![](.gitbook/assets/image%20%2832%29.png)
 
 1. **Association**: The initial level at which most Machine learning models operate
 2. **Intervention**: The 2nd level where we understand how our actions affect the environment
 3. **Counterfactuals**: The level at which we can ask the "what if" questions
 
+**Note**: The lower you go into the table the more you know about the real world causal Model. The higher in the level you are, the better idea we have about the real world.
+
+**Facts**: you can only move across the level if you have the Structural Causal Model \(Causal graph for that environment\)
+
 * **What is Intervention?**
 
-If we take a variable and set a manually to a different value, without changing anything else is known as process of doing Intervention. We do it all the time to understand the causal relationships.
+If we take a variable and set a manually to a different value\( a change that specific value to something different\), without changing anything else is known as the process of doing an Intervention. We do it all the time with the causal model to understand causal relationships. It can be thought of as coming from outside and doing some change in the model manually and try to make an inference about the output after that intervention. 
 
 \*\*\*\*
 

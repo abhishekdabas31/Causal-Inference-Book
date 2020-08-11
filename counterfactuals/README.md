@@ -17,7 +17,7 @@ _2. If a person dies after treatment, we can ask the counterfactual question, wo
 1. **The treated and untreated population should be comparable**. We cant observe the results if we distinguish people if they are healthy vs unhealthy people because in such case the outcome will definitely be different.
 2. For answering these counterfactual questions we need Causal Diagrams to answer this for us\(Do calculus\). Counterfactuals are personalized, as they would change if you go from 1 person to another.
 
-**Solution**: 
+**Solution**:
 
 The simplest thing one can do to attempt to answer my counterfactual question: collect some data about individuals. 
 
