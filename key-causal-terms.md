@@ -2,7 +2,7 @@
 description: Causal Glossary
 ---
 
-# Key Causal Terms and Related Questions
+# Key Causal Terms and FAQ
 
 * **What is the Causal Effect?**
 
@@ -90,6 +90,8 @@ It is also known as Pearl causal Hierarchy or ladder of causation.
 3. **Counterfactuals**: The level at which we can ask the "what if" questions
 
 **Note**: The lower you go into the table the more you know about the real world causal Model. The higher in the level you are, the better idea we have about the real world.
+
+**Facts**: you can only move across the level if you have the Structural Causal Model \(Causal graph for that environment\)
 
 * **What is Intervention?**
 

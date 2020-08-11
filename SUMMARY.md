@@ -8,7 +8,7 @@
 * [Decision-Making](decision-making.md)
 * [Why we need Causality?](why-we-need-causality/README.md)
   * [Leaders in the Industry](why-we-need-causality/leaders-in-the-industry.md)
-* [Key Causal Terms and Related Questions](key-causal-terms.md)
+* [Key Causal Terms and FAQ](key-causal-terms.md)
 * [Assumptions](assumptions/README.md)
   * [Causal Assumptions](assumptions/causal-assumptions.md)
 * [Bias](bias/README.md)
