@@ -10,3 +10,5 @@ That might be true, a survey of 1000 people is a pretty good number. However, th
 
 The issue of selection bias can present itself in various scenarios and it is almost impossible to get a perfect sample of items/data that represent the whole population. The hope is to remove as much of the selection bias as possible by trying to introduce as much of the population's features into the sample population.
 
+Fact: Patterns in the dataset is usually not the same. which means that it is hard to generalize a pattern from a dataset. Which means that this data does not reflect the nature of the data, which is why we learn wrong patterns from data sometimes that leads to misleading conclusions.
+
