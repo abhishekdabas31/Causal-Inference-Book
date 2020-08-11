@@ -2,7 +2,7 @@
 
 Definition:
 
-
+**Note**: With the Structural Causal Model, which helps to unbox the real-world black-box model. Helps us in Interpretability.
 
 The Structural Causal Model tries to formalize the causal relationships in the form of a graph. Then using some of the defined algorithms we can determine whether the effect can be calculated through the data available or not. **These tools are as good as the assumptions feed to the system.** 
 
