@@ -20,6 +20,10 @@ It has been defined multiple times from Aristotle. But generally what we mean is
 
 To understand the true cause and effect relationship. For **Example**: if X causes and outcome Y or not? Does smoking cause cancer or not?
 
+* **What is Causal Reasoning?**
+
+Causal reasoning is the process of understanding causality. A cause must be present for an effect to occur. If A causes B, then B will not occur without A. Thus this process of reasoning the causes and effects are known as Causal Reasoning.
+
 * **What is an Estimand?** 
 
 Causal Estimand can be defined as the expectations of potential outcomes. It is the treatment effect that has to be estimated in statistical analysis or a clinical trial.
@@ -54,6 +58,8 @@ In causal Analysis **Randomized controlled trials**, where the subjects are rand
 
 1. **Predictive Modeling** is about predicting the outcomes. **Example:** predicting weather, elections, predict videos one will watch?
 2. **Causal Modeling** is used to control the outcomes. **Example**: can I control the weather?, can I influence the patient's weather?, how can I influence the next video you watch?
+
+![](.gitbook/assets/image%20%2843%29.png)
 
 * **Examples of Causal Questions or Questions we can answer by knowing Causal Inference:**
 
@@ -99,5 +105,15 @@ If we take a variable and set a manually to a different value\( a change that sp
 
 * **Structural Causal Model vs Structural Equation Model?**
 
-\*\*\*\*
+**bayesian network+intevention** 
+
+**sem----think**
+
+* **Evidence-based Pyramid**
+
+The Evidence-Based pyramid is frequently used to understand and formalize the knowledge of the hierarchy of evidence and how this evidence can be used for formulating the recommendation for practice. The different levels of evidence are appropriately represented by the pyramid of evidence as shown below. The levels from bottom to top reflects an increase in the quality of the research design. **Example**: Systematic reviews are of higher quality than just expert opinion. 
+
+**Note**: Randomized control trials\(RCT\) are considered on the 2nd top, in the Evidence Pyramid
+
+![](.gitbook/assets/image%20%2838%29.png)
 

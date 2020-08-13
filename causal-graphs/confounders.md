@@ -24,5 +24,9 @@ X - Medication , Y - stroke,  Z - History of heart disease , U - Weak arteries
 
 
 
+A lot of times we are unaware or misinterpret the confounders within the data which can cause bias and be risky for our Causal Model.
+
 **Note**: If we are not aware of confounders and do not control them, it can lead to bias within the causal relationship. As well as misinterpreting confounding and controlling for them can lead to biased results.
+
+
 

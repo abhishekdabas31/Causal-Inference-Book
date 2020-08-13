@@ -17,6 +17,8 @@ Statisticians have been considering and researching on causality for a very long
 
 There has been a Causal Revolution - **from Statistics to Counterfactual** !!
 
+The practice of causal Inference is well established in the medical field where it is termed as Medical Trials. The testing of most new medications is done through this process of medical trials, which is proven to be a very effective method of testing a causal relationship between the treatment and outcome. Randomized controlled trials used here are considered high in the pyramid of evidence. 
+
 In recent years the field of causal inference has grown in scope and impact. Today, it's not only Judea Perl, but also researchers of MIT, and various other **universities that agree on the need of causal models for human-like intelligence in machines**. - [link](http://www.mit.edu/~tomeru/papers/machines_that_think.pdf)
 
 Causal Inference is now making its way into Machine Learning and Artificial Intelligence as people are increasingly talking about this significant research area.

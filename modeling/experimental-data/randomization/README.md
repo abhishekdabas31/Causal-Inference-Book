@@ -4,7 +4,7 @@ description: Randomized Control Trial (RCT)
 
 # Randomization
 
-[Randomized controlled](https://en.wikipedia.org/wiki/Randomized_controlled_trial) tests are best to date, as we believe and agree that randomization is not biased. In this process, we randomly divide units into treatment and control groups before the action or intervention takes place, in an attempt to make these units comparable. Both the groups  \(treatment and control\) are given different treatments. Randomization makes these croups comparable, after which the outcome is observed. If we believe that data is separated without any bias, this is a very good method for quick conclusions.
+Randomized experiments were developed predominantly focusing on medical and agriculture. [Randomized controlled](https://en.wikipedia.org/wiki/Randomized_controlled_trial) trials are best to date, as we believe and agree that randomization is not biased. In this process, we randomly divide units into treatment and control groups before the action or intervention takes place, in an attempt to make these units comparable. Both the groups  \(treatment and control\) are given different treatments. Randomization makes these croups comparable, after which the outcome is observed. If we believe that data is separated without any bias, this is a very good method for quick conclusions.
 
 1. Randomized Experiments:
 
@@ -26,7 +26,7 @@ A **randomized experiment holds the following true \(Assumptions\):**
 
 **Note: Unconfoundedness** is very crucial in randomized experiments, as randomization does not remove confoundedness. **Example**: Examining the causal effect of college on a good job, wherein there might be a confounding effect. Randomization is not possible here and not the solution. As we can't make sure if the students were already smart or college made them smarter for getting good-paying jobs. There is a confounding effect here that needs to be controlled.
 
-* **Covariate Balance**: In randomization, when we randomly assign the people from population of interest, then there is an equal distribution of covariates in both the treatment and control group. This balance of covariates in both the groups is known as covariate balance.
+* **Covariate Balance**: In randomization, when we randomly assign the people from the population of interest, then there is an equal distribution of covariates in both the treatment and control group. This balance of covariates in both groups is known as covariate balance.
 
 **There are 4 types of Randomized experiments:**
 

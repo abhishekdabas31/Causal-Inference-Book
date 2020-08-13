@@ -4,7 +4,7 @@ Identifiability of causal effects requires making some untestable assumptions. B
 
 **The most common assumptions are:**
 
-1. SUTVA - Stable Unit Treatment Value Assumptions
+1. SUTVA - Stable Unit Treatment Value Assumptions - \(potential outcomes \)
 2. Consistency
 3. Ignorability
 4. Positivity

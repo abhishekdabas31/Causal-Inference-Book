@@ -25,10 +25,11 @@ $$
 2. Data inherently reflecting human bias\(cognitive bias\)
 3. Biased Feedback loops
 
-**Reducing Bias:**
+**Removing Bias:**
 
 1. Awareness - find, understand and point out biases
 2. Bias mitigation methods - Adding Fairness to the models, Datasheets for data sets & Model cards for Model reporting
+3. Demonstrating Causal Relationships
 
 **Challenges:**
 
