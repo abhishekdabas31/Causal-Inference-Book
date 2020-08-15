@@ -4,15 +4,15 @@ description: Understanding Causality
 
 # What is Causality?
 
-Causality describes a relationship between 2 or more things, where a change in one causes a change in the other. The essence of causality is a phenomenon of being dependent on another event.
+Causality describes a **relationship between 2 or more things**, where a change in one causes a change in the other. The essence of causality is a phenomenon of being dependent on another event. Causality revolves around finding the **cause and effect relationship**.
 
 ![](.gitbook/assets/causality-a-b.jpeg)
 
-It is usually inferred as the difference between the outcomes when a person is given the treatment compared to when the individual is not assigned the treatment.
+It is usually inferred as the **difference between the outcomes** when a person is given the treatment compared to when the individual is not assigned the treatment.
 
 Causality plays a massive role in the way humans learn to perceive the world around us. All of our understanding of the world initially comes through an understanding of the various causes and effects that surround us. Not just that, but our ability to act around the world comes from a grasp of the causal relationship between the various aspects around the world.
 
-An example of this is humans understanding how to play a sport. Imagine a game of baseball/cricket. Until an unless the person understands that hitting the ball with the bat is going to **cause** the ball to move further away in the opposite direction, the person will never get a grasp of the game.
+An **example** of this is humans understanding how to play a sport. Imagine a game of baseball/cricket. Until an, unless the person understands that hitting the ball with the bat is going to **cause** the ball to move further away in the opposite direction, the person will never get a grasp of the game.
 
 ![](.gitbook/assets/stick-cricket.png)
 
