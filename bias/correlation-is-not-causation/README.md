@@ -18,6 +18,8 @@ description: Association vs Causation
 
 **Some other helpful examples which make the difference clear :** 
 
+![](../../.gitbook/assets/image%20%2844%29.png)
+
 1. Smoking causes an increase in the risk of developing lung cancer. Both are **causally** related. Whereas, Smoking can be **correlated** with alcoholism, whereas smoking does not cause alcoholism. **It is difficult to define a cause and effect, whereas developing a correlation is not hard.**
 2. In 2012, Misserli showed a strong positive relationship between chocolate consumption and the number of Nobel laureates per country. These 2 are highly correlated, but not to mistake correlation with causation. "Eating chocolates does not produce Nobel Prize winners"
 
@@ -41,7 +43,7 @@ Sometimes we just believe something because of the absence of proof. For a long 
 
 Even the well-trained scientists misinterpreted correlation and causation. In the 1950’s some statisticians got confused with **tobacco causing cancer**. They argued that without a randomized experiment of comparing smokers with nonsmokers, this could not be established. Eventually, the causal relationship was established between tobacco and cancer. The point is that such problems exist.
 
-**Conclusion:**
+## **Conclusion:**
 
 * Correlation can not be considered as Causation because there can be many other factors that could be at play.
 * When there is Causation there is surely a Correlation but when there is a Correlation there may or may not be causation.

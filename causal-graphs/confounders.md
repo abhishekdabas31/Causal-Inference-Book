@@ -4,7 +4,7 @@
 
 **Confounding Effect**: A falsification within the association between an exposure and an outcome can be considered as a confounding effect. Any common cause of both a covariate and outcome may be a confounding effect. If there is an association and no causal effect between nodes, there might be confounding. Confounding is another type of **Bias**. But unlike a lot of other biases, this one can be controlled for within the analysis.  We need to adjust for variables to eliminate the effect of confounding in the analysis. **Examples**:  There is potential for confounding in Health Problems. If past health affecting the treatment assignment and the outcome then the past health history is a confounder. Age is a very common confounder in such health-related causal questions
 
-![](../.gitbook/assets/image%20%2846%29.png)
+![](../.gitbook/assets/image%20%2847%29.png)
 
 Z is a **confounder** of the effect of X on Y if Z meets **3 conditions**: 
 

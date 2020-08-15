@@ -16,7 +16,7 @@ From the definition, it is clear to see that stratification is exactly what solv
 
 
 
-Let's consider a stratification and Non-stratification data \*\***comparision**\*
+Let's consider a stratification and Non-stratification data \***comparision**\*
 
 **Problem:**
 

@@ -12,7 +12,7 @@ An example of a situation where a 'What-If' analysis would be needed is:
 
 "**What** would happen to my final grade **if** were to study 4 hours extra every day?"
 
-Resource :
+## **Resource** :
 
 [Identification, Inference and Sensitivity Analysis for Causal Mediation Effects](https://imai.fas.harvard.edu/research/files/mediation.pdf)
 

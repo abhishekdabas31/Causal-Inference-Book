@@ -14,7 +14,7 @@ The critical intellectual distinction between humans and machines is their abili
 
 AI research began in the 1950s. Today, Artificial Intelligence is considered to be **the New Revolution**. Today the most important resource is not oil, but **Data.** For the efficient and smart use of this data or information, we need AI. 
 
-![Source: https://www.economist.com](.gitbook/assets/image%20%2845%29.png)
+![Source: https://www.economist.com](.gitbook/assets/image%20%2846%29.png)
 
 “The last 10 years have been about building a world that is mobile-first. In the next 10 years, we will shift to a world that is AI-first.” - Sundar Pichai, CEO of Google
 
