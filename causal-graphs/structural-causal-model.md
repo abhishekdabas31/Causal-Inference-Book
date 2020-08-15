@@ -20,7 +20,3 @@ The Structural Causal Model tries to formalize the causal relationships in the f
 
 The SCM helps us in identifying the testable implications from the causal graph which can be used to come to causal conclusions. These testable functions could be really easy such as Linear functions, or as complex as cubic functions.
 
-**Causal Hierarchy:**
-
-Most of the data we have is observational data, and we want to use those observations to answer the questions about interventions. 
-
