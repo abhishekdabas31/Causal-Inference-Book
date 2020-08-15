@@ -4,7 +4,7 @@ description: Leading to better Decisions
 
 # Decision-Making
 
-**Types of data analysis :**
+## **Types of data analysis :**
 
 ![Predictive to Prescriptive Analytics is where causality comes in.](.gitbook/assets/image.png)
 
@@ -34,5 +34,7 @@ In simple words, we want to know the effect of actions that we might plan on tak
 
 "But there is nothing inevitable about the decision to hand over to a computer the capacity to make decisions for us. There is always a human responsibility and this belongs to the companies or organizations that make use of – or at least unleash – the powers of the computer networks. To pretend otherwise is like blaming the outbreak of the first world war [on railway timetables](http://media.nationalarchives.gov.uk/index.php/railways-and-the-mobilisation-for-war-in-1914/) and their effect on the mobilization of armies." - [By Guardian ](https://www.theguardian.com/commentisfree/2016/oct/23/the-guardian-view-on-machine-learning-people-must-decide)
 
-* **Decision Intelligence:** This new field of Decision Making is now being turned into a whole new field called ****[**Decision Intelligence**](https://en.wikipedia.org/wiki/Decision_intelligence)**.** The right decision or performing better actions from data is what matters at the end of the day.
+## **Decision Intelligence:** 
+
+This new field of Decision Making is now being turned into a whole new field called ****[**Decision Intelligence**](https://en.wikipedia.org/wiki/Decision_intelligence)**.** The right decision or performing better actions from data is what matters at the end of the day.
 

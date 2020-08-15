@@ -4,7 +4,7 @@ description: Understanding Causality
 
 # What is Causality?
 
-Causality describes a relationship between 2 or more things, where a change in one causes a change in the other. The essence of causality is a phenomena of being dependent on another event.
+Causality describes a relationship between 2 or more things, where a change in one causes a change in the other. The essence of causality is a phenomenon of being dependent on another event.
 
 ![](.gitbook/assets/causality-a-b.jpeg)
 

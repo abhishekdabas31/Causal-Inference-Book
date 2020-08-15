@@ -4,7 +4,7 @@ description: Randomized Control Trial (RCT)
 
 # Randomization
 
-Randomized experiments were developed predominantly focusing on medical and agriculture. [Randomized controlled](https://en.wikipedia.org/wiki/Randomized_controlled_trial) trials are best to date, as we believe and agree that randomization is not biased. In this process, we randomly divide units into treatment and control groups before the action or intervention takes place, in an attempt to make these units comparable. Both the groups  \(treatment and control\) are given different treatments. Randomization makes these croups comparable, after which the outcome is observed. If we believe that data is separated without any bias, this is a very good method for quick conclusions.
+Randomized experiments were developed predominantly focusing on medical and agriculture. [Randomized controlled](https://en.wikipedia.org/wiki/Randomized_controlled_trial) trials are best to date, as we believe and agree that randomization is not biased. In this process, we randomly divide units into treatment and control groups before the action or intervention takes place, in an attempt to make these units comparable. Both the groups  \(treatment and control\) are given different treatments. Randomization makes these groups comparable, after which the outcome is observed. If we believe that data is separated without any bias, this is a very good method for quick conclusions.
 
 1. Randomized Experiments:
 

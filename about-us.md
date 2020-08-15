@@ -1,12 +1,10 @@
 ---
-description: Authors of the book
+description: The book is complied by
 ---
 
 # About-us
 
-**Book compiled by:-**
-
-* **Abhishek Dabas**
+## **Abhishek Dabas**
 
 ![](.gitbook/assets/image%20%2837%29.png)
 
@@ -16,7 +14,7 @@ Abhishek Dabas is a Graduate Student of the Information Systems Program at North
 ) \| [Medium](https://medium.com/@adabhishekdabas
 )
 
-* **Abhijit Krishna Menon**
+## **Abhijit Krishna Menon**
 
 ![](.gitbook/assets/abhijit.png)
 
@@ -26,9 +24,9 @@ His hobbies include playing chess, reading, and volunteering in community servic
 
 [Website](https://www.abhijitkmenon.com/) \| [LinkedIn](https://www.linkedin.com/in/abhijit-krishna-menon/)
 
-**Mentor**:
+## Professor Nik Bear Brown \(**Mentor\)** 
 
-Professor Nik Bear Brown - Assistant teaching professor at Northeastern University
+ Assistant teaching professor at Northeastern University
 
 [LinkedIn](https://www.linkedin.com/in/nikbearbrown/) 
 

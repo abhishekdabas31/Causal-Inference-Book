@@ -1,5 +1,7 @@
 # Workflow
 
+## Workflow:
+
 **This workflow can be captured by four key verbs in DoWhy:**
 
 * model - encodes prior knowledge as a formal causal graph
@@ -7,7 +9,7 @@
 * estimate - uses statistical methods for estimating the identified estimand
 * refute - tries to refute the obtained estimate by testing robustness to assumptions
 
-**Difference estimation methods for causal inference:**
+## **Different estimation methods:**
 
 1. **Regression:** Linear Regression Method used
 2. **Stratification:** Propensity Score used for Stratification
@@ -19,17 +21,5 @@
 5. **Instrumental Variable** - Wald estimator used
 6. **Regression Discontinuity**
 
-
-
-**Installing library:**
-
-```text
-pip install dowhy
-```
-
-
-
-
-
-Go to the [Notebook](https://github.com/abhishekdabas31/Causal-Inference-implementation/tree/master/DoWhy) for reference!!
+Go to the [Notebook](https://github.com/abhishekdabas31/Causal-Inference-implementation/tree/master/DoWhy) for **reference**!!
 

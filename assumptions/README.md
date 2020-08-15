@@ -39,23 +39,21 @@ When we analyze data, we assume all of it is captured without errors. The human 
 
 * We all have been making some strong assumptions in our daily lives, which has been affecting our day to day decisions.
 
-**Problem**: 
+## **Problem**: 
 
 * People can have different assumptions which can lead to different conclusions. We see it while analyzing the data, different people come can come out with different conclusions.
 
-**Solution**:
+## **Solution**:
 
 1. **Domain Expert**: This is where domain experts come in, and where their domain expertise can be used to unlock the true assumptions that we need to make about the data generating process. **Example**: A researcher in the field of Healthcare or a doctor would have more knowledge about the factors affecting COVID 19 compared to others. Hence their assumptions would be a more accurate depiction of the true Causal DAG.
 2. **Sensitivity Analysis**
 3. **Testing and specifying Assumptions:** 
 
-**Conclusion**:
+## **Conclusion**:
 
 **We need to formalize Assumptions**. We make some assumptions, combine it with data and then make an actionable decision. Assumptions are the source for us to cope up with the facts and information that is lacking in our decision-making process.
 
-
-
-**Resource**:
+## **Resource**:
 
  [https://towardsdatascience.com/the-saddest-equation-in-data-science-e60e7819b63f](https://towardsdatascience.com/the-saddest-equation-in-data-science-e60e7819b63f)
 

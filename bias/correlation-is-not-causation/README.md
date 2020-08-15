@@ -2,11 +2,13 @@
 description: Association vs Causation
 ---
 
-# Correlation is not Causation/Common Causes
+# Correlation is not Causation
 
-"**Correlation does not equal Causation"**
+"**Correlation does not equal Causation" or "Correlation is not Causation" - All these phrases are used quite often in the field of AI.**
 
 * **Correlation**: It is the statistical measure that defines the size and direction of a relationship between two variables. It does not tell us if the change in one would cause a change in the other. correlation states that change in one variable can help predict the change int the other variable. 
+
+ **“**A bunch of variables that vary together for a very long time, or vary cohesively is correlation**”- Judea Perl**
 
 **Example**: If X increase Y increase \(Positive Correlation\) or if X increases Y decreases\(Negative Correlation\)
 
@@ -25,9 +27,9 @@ A very good website called[ Spurious Correlations ](https://www.tylervigen.com/s
 
 ![](../../.gitbook/assets/image%20%2839%29.png)
 
-![](../../.gitbook/assets/image%20%2840%29.png)
+![](../../.gitbook/assets/image%20%2841%29.png)
 
-**Uber Example:**
+**Example from Uber:**
 
 ![](../../.gitbook/assets/image%20%284%29.png)
 

@@ -4,6 +4,22 @@ description: The Birth of Causal Inference
 
 # Origin of Causality
 
+## What is Intelligence?
+
+“_Be a free thinker and don’t accept everything you hear as truth. Be critical and evaluate what you believe in..._.” ~**Aristotle**
+
+The critical intellectual distinction between humans and machines is their ability to define goals and reason towards achieving them. Understanding cause and effect is a big aspect of what we call common sense. The process of experimentations, accepting, and rejecting hypotheses to reach conclusions needs to be accepted and implemented by the AI models. Over time researchers have agreed that modeling and reasoning about the interventions can help the current Machine Learning techniques to understand and resolve the current problems and take the field of Artificial Intelligence to the Next Level!!!
+
+## Artificial Intelligence
+
+AI research began in the 1950s. Today, Artificial Intelligence is considered to be **the New Revolution**. Today the most important resource is not oil, but **Data.** For the efficient and smart use of this data or information, we need AI. 
+
+![Source: https://www.economist.com](.gitbook/assets/image%20%2845%29.png)
+
+“The last 10 years have been about building a world that is mobile-first. In the next 10 years, we will shift to a world that is AI-first.” - Sundar Pichai, CEO of Google
+
+## Causality
+
 Statisticians have been considering and researching on causality for a very long time. Statisticians started working on it in 1920. Causality was recognized as another area of research since the 1970s. Causal Inference has done immense progress in the past 30 years!!
 
 **Mainly there are 2 Frameworks :**
@@ -21,9 +37,9 @@ The practice of causal Inference is well established in the medical field where 
 
 In recent years the field of causal inference has grown in scope and impact. Today, it's not only Judea Perl, but also researchers of MIT, and various other **universities that agree on the need of causal models for human-like intelligence in machines**. - [link](http://www.mit.edu/~tomeru/papers/machines_that_think.pdf)
 
-Causal Inference is now making its way into Machine Learning and Artificial Intelligence as people are increasingly talking about this significant research area.
+Causal Inference is now making its way into Machine Learning and Artificial Intelligence as people are increasingly talking about this significant research area. Also, after all these years there are authentic connections between Machine Learning and Causality, which are considered very crucial for growth in the field of Artificial Intelligence.
 
-**Resource**:
+## **Resource**:
 
 1. [https://diginomica.com/ai-curve-fitting-not-intelligence](https://diginomica.com/ai-curve-fitting-not-intelligence)
 2. [https://towardsdatascience.com/why-do-we-need-causality-in-data-science-aec710da021e](https://towardsdatascience.com/why-do-we-need-causality-in-data-science-aec710da021e)

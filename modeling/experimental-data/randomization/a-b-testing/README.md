@@ -1,6 +1,6 @@
 # A/B Testing
 
-A/B testing is an example of a **completely randomized trial**. It is considered as a standard and basic test for randomized controlled experiments.
+A/B testing is an example of a **completely randomized trial**. It is considered as a standard and basic test for randomized controlled experiments. This makes A/B testing a popular approach for running experiments and determining if experience "A" OR "B" works better. This helps to establish causation as opposed to a correlation in observed data. 
 
 ![](../../../../.gitbook/assets/image%20%2824%29.png)
 
@@ -10,7 +10,7 @@ It is a very basic and effective way of testing two versions of things and figur
 
 > In a lot of cases, getting the data for the entire population is very hard. The solution to this would be taking a sample \(ex. selecting 1000 from 100000 people\) and doing statistical analysis on the sample data to predict how the remaining\(99,000 people\) are going to perform. This process of selecting a small portion from larger population is called **sampling** \(this sample can represent the overall population\). Example: If 10% from 1000 people buy a product, then if we select a sample of 10 people, 1 would buy the product. The ratio will remain the same.
 
-* **AB Test allows us to construct hypothesis and understand why certain things perform better than others.**
+* **AB Test allows us to construct a hypothesis and understand why certain things perform better than others.**
 
 **Hypothesis Testing:** A statistical hypothesis test is a method of statistical inference. Commonly, two statistical data sets are compared, or a data set obtained by sampling is compared against a synthetic data set from an idealized model. A hypothesis is proposed for the statistical relationship between the two data sets, and this is compared as an alternative to an idealized null hypothesis that proposes no relationship between two data sets.
 
@@ -39,10 +39,11 @@ _**Note**_**: Assumptions** are an important part of modeling in Causal Inferenc
 **Problems:**
 
 1. **Self Selection Bias:** When we are running an AB Test, we plan on testing it on a random sample of people that represent the whole population. But is that really true? , The test is running on people present\(Online, in case of an e-commerce website testing\). We have to be sure about the effect that we are testing, really what we are looking for?
-2. It is very difficult to have a perfect, clean A/B test when we are increasing the scale of people or the target audience
+2. It is very difficult to have a perfect, clean, unbiased A/B test when we are increasing the scale of people or the target audience.
 3. Looking at too many metrics \(risk of spurious correlations\)
-4. Ending the AB test too soon. It usually takes a lot of time \(3-4 weeks of running time\)
-5. Multi-split testing
+4. Ending the AB test too soon. It usually takes a lot of time \(3-4 weeks of running time\). 
+5. Long Term AB tests also have some disadvantages, as they are hard to experiment in the complete isolation from other interventions or other new features. It affects the accuracy of the model, by increasing the negative impact on the model.
+6. Multi-split testing
 
 **Solution**:
 

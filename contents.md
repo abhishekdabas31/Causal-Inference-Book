@@ -14,7 +14,7 @@
 * [Bias](bias/)
   * [Selection Bias](bias/selection-bias.md)
   * [Correlation is not Causation](https://github.com/abhishekdabas31/Causal-Inference-Book/tree/0b5b58da9ed7f4c5b51643969d91cdbdc1d6988d/bias/correlation-is-not-causation.md)
-  * [Simpsons Paradox](bias/simpsons-paradox.md)
+  * [Simpsons Paradox](bias/correlation-is-not-causation/simpsons-paradox.md)
 * [Causal Graphs](causal-graphs/)
   * [Structural Causal Model](causal-graphs/structural-causal-model.md)
   * [do-calculus](causal-graphs/do-calculus.md)
