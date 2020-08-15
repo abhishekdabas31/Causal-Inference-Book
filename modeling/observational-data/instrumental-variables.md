@@ -1,5 +1,7 @@
 # Instrumental Variables
 
+## Explanation
+
 Instrumental Variables are used to control the confounding and measurement error in observational studies. They allow for the possibility of making Causal inferences with Observational Data. Instrumental Variables can adjust for both observed and unobserved data confounding effects.
 
 Observational studies usually are implemented as a substitute for or complement to clinical trials. The problem with using observational trials to make a causal inference is that an individual may be more likely to receive treatment because the individual has one or more co-morbid reasons which would not be the case in a controlled experiment like the A/B test. The outcome may be influenced by the fact that some of the individuals received the treatment because of their personal or health characteristics.
