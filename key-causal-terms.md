@@ -59,7 +59,7 @@ In causal Analysis **Randomized controlled trials**, where the subjects are rand
 1. **Predictive Modeling** is about predicting the outcomes. **Example:** predicting weather, elections, predict videos one will watch?
 2. **Causal Modeling** is used to control the outcomes. **Example**: can I control the weather?, can I influence the patient's weather?, how can I influence the next video you watch?
 
-![](.gitbook/assets/image%20%2848%29.png)
+![](.gitbook/assets/image%20%2849%29.png)
 
 * **Examples of Causal Questions or Questions we can answer by knowing Causal Inference:**
 

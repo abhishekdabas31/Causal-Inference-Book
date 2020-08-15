@@ -10,5 +10,5 @@ description: Online Platform to draw and analyze causal diagrams
 
 DAGitty is free software, and one can launch and use it on their browser. The main purpose of Dagitty for building and using causal models for empirical studies. 
 
-![Source: Daggity](../.gitbook/assets/image%20%2849%29.png)
+![Source: Daggity](../.gitbook/assets/image%20%2850%29.png)
 

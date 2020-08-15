@@ -10,7 +10,7 @@ Matching is usually the **first step for estimating** the treatment effect. Matc
 
 This method originated after there were some problems with conducting A/B tests. The aim here was to define a good match and discard the unmatched observations, which can then lead to an unbiased estimation of the treatment effect.
 
-![Source: Uber](../../.gitbook/assets/image%20%2850%29.png)
+![Source: Uber](../../.gitbook/assets/image%20%2851%29.png)
 
 ## Implementation:
 

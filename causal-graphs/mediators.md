@@ -6,3 +6,5 @@ Mediators are an essential part of the causal Paths. Conditioning on mediators b
 
 **Mediation analysis** is the analysis of understanding the **front door paths** from treatment to the outcome.
 
+![](../.gitbook/assets/image%20%2847%29.png)
+
