@@ -43,7 +43,5 @@ I believe that today’s machine-learning and AI tools won’t be enough to brin
 
 
 
-
-
 ### **"Causal Inference is Hard"**
 
