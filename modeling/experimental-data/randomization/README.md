@@ -12,7 +12,7 @@ Randomized experiments were developed predominantly focusing on medical and agri
 
 ![](../../../.gitbook/assets/image%20%2820%29.png)
 
-**Why Randomization?**
+## **Why Randomization?**
 
 If a person knows that they are getting a placebo or an active drug, they might stop taking the drug which hence would introduce bias. If this study is not randomized then the causal difference might be due to how the patients reacted, which is actually the true causal effect. Thus the allocation should be randomized. Randomization removes the worry about the treatment being correlated with other missing values. The extreme version of this correlation is confounding. **Example**: Understanding the causal effect of medication to cure a disease, can be tested through randomized control trial\(RCT\), where some people are randomly given the treatment and some placebo\(Control group\). The outcome of this can be considered as a causal effect because the treatment is randomly assigned and all possible confounders are removed through this process of randomization. 
 
@@ -28,6 +28,8 @@ A **randomized experiment holds the following true \(Assumptions\):**
 
 * **Covariate Balance**: In randomization, when we randomly assign the people from the population of interest, then there is an equal distribution of covariates in both the treatment and control group. This balance of covariates in both groups is known as covariate balance.
 
+## **Types**
+
 **There are 4 types of Randomized experiments:**
 
 1. **Bernoulli trials**: Every unit is assigned treatment with the same probability \(p = 1/2\). Treatment for each unit is determined by the flip of a coin.
@@ -35,7 +37,7 @@ A **randomized experiment holds the following true \(Assumptions\):**
 3. **Stratified randomized experiment**: Subgroups based on covariates, X,  are partitioned and given completely randomized experiments within each of these strata.
 4. **Paired Randomized experiments**: Special case of stratified randomized experiments with 2 similar samples are matched into pairs. It is also called Matched pair experiments.
 
-**Resource**: 
+## **Resource**: 
 
 [https://kojinoshiba.com/causal%20inference/what-are-experiments/](https://kojinoshiba.com/causal%20inference/what-are-experiments/)
 
