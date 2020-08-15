@@ -16,7 +16,7 @@ An **example** of this is humans understanding how to play a sport. Imagine a ga
 
 ![](.gitbook/assets/stick-cricket.png)
 
-Even in science, most of the studies are actually a study of the systematic cause and effect relationships between successive events.
+In the world of **Science**, most of the studies are actually a study of the systematic **cause and effect relationships** between successive events.
 
 ![](.gitbook/assets/chemical-exp.jpeg)
 
@@ -24,7 +24,10 @@ An important process in the understanding of a particular cause is the process o
 
 However, this is a very generalistic view of causality. Just because we have seen an even occur in the past, it does not guarantee that it will happen in the future. Just because we see the sunrise and sunset everyday, does not guarantee that it will take place tomorrow.
 
-Causality can roughly be divided into two main parts. 1\) **Linear** 2\) **Non-Linear**
+Causality can roughly be divided into two main parts. 
+
+1. **Linear**
+2. **Non-Linear**
 
 ## Linear Causality
 
@@ -34,11 +37,11 @@ Linear Causality is the idea that cause and effect follow a single straight line
 
 Linear Causality can be though of as a Domino Effect where one event A leads to a sequence of events which finally cause B.
 
-## Non Linear Causality
+## Non-Linear Causality
 
-Non Linear Causality is the idea that Causality may follow a bi-directional path. ie. A causes B and B in turn causes A. The causality can either be direct or through a sequence of events.
+Non-Linear Causality is the idea that Causality may follow a bi-directional path. ie. A causes B and B in turn causes A. The causality can either be direct or through a sequence of events.
 
 ![](.gitbook/assets/non-linear-view.png)
 
-An example of this is the study on the ecosystem which shows that the population of the predator causes a change in the population of the prey. But also, the population of the prey causes the population of the predator to change.
+An example of this is the study on the ecosystem which shows that the population of the predator causes a change in the population of the prey. But also, the population of the prey causes the population of the predator to change
 
