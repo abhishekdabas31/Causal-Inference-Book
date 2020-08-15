@@ -41,7 +41,6 @@
   * [Non-Experimental / Observational Data](modeling/observational-data/README.md)
     * [Instrumental Variables](modeling/observational-data/instrumental-variables.md)
     * [Weighting](modeling/observational-data/weighting/README.md)
-      * [Problems](modeling/observational-data/weighting/problems.md)
       * [Inverse Propensity Weighting](modeling/observational-data/weighting/inverse-propensity-weighting.md)
     * [Propensity Score](modeling/observational-data/propensity-score.md)
     * [Sensitivity Analysis](modeling/observational-data/sensitivity-analysis.md)

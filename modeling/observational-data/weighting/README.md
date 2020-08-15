@@ -8,5 +8,9 @@ In order to make the sample look more like the broader population, sampling is u
 
 **Note**: The aim of this method is to remove the sampling bias. 
 
+## Problems:
+
+The issue with using this method is that, in a case when the propensity score is very low\(almost 0\) in that case the weight is drastically increased.
+
 
 
