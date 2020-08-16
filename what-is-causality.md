@@ -8,7 +8,7 @@ Causality describes a **relationship between 2 or more things**, where a change 
 
 ![](.gitbook/assets/causality-a-b.jpeg)
 
-It is usually inferred as the **difference between the outcomes** when a person is given the treatment compared to when the individual is not assigned the treatment.
+It is usually inferred as the **difference between the outcomes** when a person is given the treatment compared to when the individual is not assigned the treatment. This is a critical step for linking an input with and output.
 
 Causality plays a massive role in the way humans learn to perceive the world around us. All of our understanding of the world initially comes through an understanding of the various causes and effects that surround us. Not just that, but our ability to act around the world comes from a grasp of the causal relationship between the various aspects around the world.
 
