@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Guide to Causal Inference](README.md)
+* [A Guide to Causal Inference](README.md)
 * [Table of Contents](contents.md)
 * [About-us](about-us.md)
 * [Preface](preface.md)
