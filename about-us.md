@@ -6,7 +6,7 @@ description: The book is complied by
 
 ## **Abhishek Dabas**
 
-![](.gitbook/assets/image%20%2837%29.png)
+![](.gitbook/assets/abhishek.png)
 
 Abhishek Dabas is a Graduate Student of the Information Systems Program at Northeastern University. 
 
