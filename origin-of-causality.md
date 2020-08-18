@@ -8,7 +8,9 @@ description: The Birth of Causal Inference
 
 “_Be a free thinker and don’t accept everything you hear as truth. Be critical and evaluate what you believe in..._.” ~**Aristotle**
 
-The critical intellectual distinction between humans and machines is their ability to define goals and reason towards achieving them. Understanding cause and effect is a big aspect of what we call common sense. The process of experimentations, accepting, and rejecting hypotheses to reach conclusions needs to be accepted and implemented by the AI models. Over time researchers have agreed that modeling and reasoning about the interventions can help the current Machine Learning techniques to understand and resolve the current problems and take the field of Artificial Intelligence to the Next Level!!!
+The critical intellectual distinction between humans and machines is their ability to define goals and reason towards achieving them. Understanding cause and effect is a big aspect of what we call common sense. It is the ability of humans to **interpret and process information** that makes humans dominant on this planet.
+
+The process of experimentations, accepting, and rejecting hypotheses to reach conclusions needs to be accepted and implemented by the AI models. Over time researchers have agreed that modeling and reasoning about the interventions can help the current Machine Learning techniques to understand and resolve the current problems and take the field of Artificial Intelligence to the Next Level!!!
 
 ## Artificial Intelligence
 
