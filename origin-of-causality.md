@@ -14,11 +14,11 @@ The process of experimentations, accepting, and rejecting hypotheses to reach co
 
 ## Artificial Intelligence
 
-AI research began in the 1950s. Today, Artificial Intelligence is considered to be **the New Revolution**. Today the most important resource is not oil, but **Data.** For the efficient and smart use of this data or information, we need AI. 
+AI research began in the 1950s. Today, Artificial Intelligence is considered to be **the New Revolution**. Today the most important resource is not oil, but **Data.** For the efficient and smart use of this data or information, we need AI. Starting from the Industrial Revolution to the AI Revolution there has been a concern about the **ethical use** of these new coming technologies 
 
 ![Source: https://www.economist.com](.gitbook/assets/image%20%2846%29.png)
 
-“The last 10 years have been about building a world that is mobile-first. In the next 10 years, we will shift to a world that is AI-first.” - Sundar Pichai, CEO of Google
+“The last 10 years have been about building a world that is mobile-first. In the next 10 years, we will shift to a world that is AI-first.” - **Sundar Pichai**, CEO of Google
 
 ## Causality
 
