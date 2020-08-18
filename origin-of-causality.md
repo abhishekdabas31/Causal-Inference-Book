@@ -8,17 +8,15 @@ description: The Birth of Causal Inference
 
 “_Be a free thinker and don’t accept everything you hear as truth. Be critical and evaluate what you believe in..._.” ~**Aristotle**
 
-The critical intellectual distinction between humans and machines is their ability to define goals and reason towards achieving them. Understanding cause and effect is a big aspect of what we call common sense. It is the ability of humans to **interpret and process information** that makes humans dominant on this planet.
-
-The process of experimentations, accepting, and rejecting hypotheses to reach conclusions needs to be accepted and implemented by the AI models. Over time researchers have agreed that modeling and reasoning about the interventions can help the current Machine Learning techniques to understand and resolve the current problems and take the field of Artificial Intelligence to the Next Level!!!
+The critical intellectual distinction between humans and machines is their ability to define goals and reason towards achieving them. Understanding cause and effect is a big aspect of what we call common sense. The process of experimentations, accepting, and rejecting hypotheses to reach conclusions needs to be accepted and implemented by the AI models. Over time researchers have agreed that modeling and reasoning about the interventions can help the current Machine Learning techniques to understand and resolve the current problems and take the field of Artificial Intelligence to the Next Level!!!
 
 ## Artificial Intelligence
 
-AI research began in the 1950s. Today, Artificial Intelligence is considered to be **the New Revolution**. Today the most important resource is not oil, but **Data.** For the efficient and smart use of this data or information, we need AI. Starting from the Industrial Revolution to the AI Revolution there has been a concern about the **ethical use** of these new coming technologies 
+AI research began in the 1950s. Today, Artificial Intelligence is considered to be **the New Revolution**. Today the most important resource is not oil, but **Data.** For the efficient and smart use of this data or information, we need AI. 
 
 ![Source: https://www.economist.com](.gitbook/assets/image%20%2846%29.png)
 
-“The last 10 years have been about building a world that is mobile-first. In the next 10 years, we will shift to a world that is AI-first.” - **Sundar Pichai**, CEO of Google
+“The last 10 years have been about building a world that is mobile-first. In the next 10 years, we will shift to a world that is AI-first.” - Sundar Pichai, CEO of Google
 
 ## Causality
 

@@ -34,7 +34,7 @@ or\\
 P(A,B) = P(B|A)P(A)
 $$
 
-**As we see that there are multiple possibilities of causal relationships, so we cant rush to any one of the conclusions.** Today because AI is used widely in the real world, and there are some really important questions we need to answer, for which understanding causal relationships is important. Hence, Causal inference can solve some of these problems that statistical inference couldn't.
+**As we see that there are multiple possibilities of causal relationships, so we cant rush to any one of the conclusions.** We need some additional causal assumptions to make a conclusion here. Today because AI is used widely in the real world, and there are some really important questions we need to answer, for which understanding causal relationships is important. Hence, Causal inference can solve some of these problems that statistical inference couldn't.
 
 **This is where the causal Inference can help and kind of complement the field of Statistical Inference.** Causal Inference can be considered more of the **next step** after statistics that can help us answer some really important causal questions. 
 
