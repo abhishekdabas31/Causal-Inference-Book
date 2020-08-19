@@ -32,10 +32,10 @@ $$
 
 **Probability distributions from DAG**
 
-* **B** is **dependent** on **A**
+* **F** is **dependent** on **E**
 
 $$
-P(B|A)
+P(F|E)
 $$
 
 * **F** is **independent** of **A, B, C, D, G** **conditional** on **E** \(The only thing that affects F is E, so if we condition on E we can control what affects F \)
