@@ -27,7 +27,7 @@ Graph theory has been a part of mathematics which was originated by Leonard Eule
 **Note:** 
 
 * The likelihood of a node depends on the likelihood of its predecessors or its parents in the DAG
-* The properties of a graph change when we add, remove, or change the direction of the paths.
+* The properties of a graph change when we add, remove or change the direction of the paths.
 
 _**D-connected and D-Separated \(**D stands for Directional**\):**_
 
@@ -36,7 +36,7 @@ _**D-connected and D-Separated \(**D stands for Directional**\):**_
 
 **Note:** The idea of this is to **associate “connectedness” to “dependence”** and **“Independence” to “separation”.  "D-Separation = Statistical Independence"**
 
-**A path is D-seperated** if the variables on both ends are independent of each other. If A and B are d-separated then  ![{\displaystyle \(A\perp \!\!\!\perp B\)\mid C}](https://wikimedia.org/api/rest_v1/media/math/render/svg/bb5a126208b708ce2ce62d8d4aa802418aa5311d), where C is the adjustment set.
+**A path is D-separated** if the variables on both ends are independent of each other. If A and B are d-separated then  ![{\displaystyle \(A\perp \!\!\!\perp B\)\mid C}](https://wikimedia.org/api/rest_v1/media/math/render/svg/bb5a126208b708ce2ce62d8d4aa802418aa5311d), where C is the adjustment set.
 
 **D-separation rules:**
 
@@ -74,11 +74,15 @@ _**D-connected and D-Separated \(**D stands for Directional**\):**_
 
 A and B are independent only when we condition on the variable "C", or we can say they become conditionally independent, conditioned on "C". **or we can say A and B are not independent unless we condition on C.**
 
+##  **Causal Markov Condition:**
+
+The related **Causal Markov \(CM\) condition** states that conditional on the set of all its direct causes, a node is independent of all variables which are not direct causes or direct effects of that node
+
 **Describing the interventions in the way has some immediate consequences:**
 
 1. X can only have some causal inference on Y if there is at least one directed path between X and Y. This is because if there is no directed path, with respect to the interventional graph the parents of X have been removed, so X⊥⊥Y in the intervential graph.
-2.  If there are _only_ directed paths between XX and YY, then the the causal influence of XX on YY is given by the simply by the conditional distribution P\(Y∣X\)P\(Y∣X\). This is because the interventional graph has the same paths between XX and YY as the observational distribution.
-3.  If there is a unblocked, but not completely directed path between XX and YY, it means that both XX and YY share a common ancestor. This common ancestor is what is called a [_confounder_](https://en.wikipedia.org/wiki/Confounding), and will mean that if we try to estimate P\(Y∣do\(X\)\)P\(Y∣do\(X\)\) from P\(Y∣X\)P\(Y∣X\) of estimates will be biased. 
+2.  If there are _only_ directed paths between XX and YY, then the causal influence of XX on YY is given by the simply by the conditional distribution P\(Y∣X\)P\(Y∣X\). This is because the interventional graph has the same paths between XX and YY as the observational distribution.
+3.  If there is an unblocked, but not completely directed path between XX and YY, it means that both XX and YY share a common ancestor. This common ancestor is what is called a [_confounder_](https://en.wikipedia.org/wiki/Confounding), and will mean that if we try to estimate P\(Y∣do\(X\)\)P\(Y∣do\(X\)\) from P\(Y∣X\)P\(Y∣X\) of estimates will be biased. 
 
 
 
