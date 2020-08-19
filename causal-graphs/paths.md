@@ -76,7 +76,7 @@ A and B are independent only when we condition on the variable "C", or we can sa
 
 ##  **Causal Markov Condition:**
 
-The related **Causal Markov \(CM\) condition** states that conditional on the set of all its direct causes, a node is independent of all variables which are not direct causes or direct effects of that node
+Also known as the **Markov Assumption.** The **Causal Markov \(CM\) condition** states that conditional on the set of all the direct causes\(Parent nodes\), a node is independent of all variables which are not direct causes or direct effects\(non-descendants\) of that node.
 
 **Describing the interventions in the way has some immediate consequences:**
 
