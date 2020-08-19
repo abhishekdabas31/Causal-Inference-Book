@@ -36,9 +36,9 @@ $$
 
 **As we see that there are multiple possibilities of causal relationships, so we cant rush to any one of the conclusions.** We need some additional causal assumptions to make a conclusion here. Today because AI is used widely in the real world, and there are some really important questions we need to answer, for which understanding causal relationships is important. Hence, Causal inference can solve some of these problems that statistical inference couldn't.
 
-**This is where the causal Inference can help and kind of complement the field of Statistical Inference.** Causal Inference can be considered more of the **next step** after statistics that can help us answer some really important causal questions. 
+**This is where the causal Inference can help and kind of complement the field of Statistical Inference.** Causal Inference can give us some additional information compared to Statistical Inference. Causal Inference can be considered more of the **next step** after statistics that can help us answer some really important causal questions. 
 
-We can consider Statistical Inference as a **First Step** and Causal Inference as a **Second Step,** wherein firstly, we find a correlation, and then with experiments & testing hypothesis, we prove the real causal relationship. With this second step of Causal Inference, the machines will be able to define and plan an experiment and find answers to pending scientific questions.
+We can consider Statistical Inference as a **First Step** and Causal Inference as a **Second Step,** wherein firstly, we find a correlation, and then with experiments & testing hypothesis, we **prove the real causal relationship**. With this second step of Causal Inference, the machines will be able to define and plan an experiment and find answers to pending scientific questions.
 
 ## Read More:
 
