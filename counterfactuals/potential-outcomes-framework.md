@@ -34,12 +34,17 @@ $$
 
  ****Individual Treatment Effect is the difference between the 2 potential outcomes for a particular individual. We cannot measure ICE as we would need counterfactual value for the individual.
 
-* ICE = Y1 - Y0
+$$
+ICE = Y1 - Y0
+$$
 
 ## **ATE**
 
 Average Treatment Effect is the average difference between the 2 potential outcomes averaged over the entire population of interest. It is the population level average of the Individual Causal Effect\(ICE\).
 
-* ATE = E\[Yi1\] - E\[Yi0\]
+$$
+ATE = E[Yi1] - E[Yi0]
+$$
+
 * **Note**: Even though an Individual Causal Effect is non zero, the Average causal effect can be Zero.
 
