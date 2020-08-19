@@ -14,6 +14,8 @@ A very good read: [The future of clinical Trials](https://www.cbinsights.com/res
 
 ## **Uber:**
 
+![](.gitbook/assets/image%20%2854%29.png)
+
 [**Using causal Inference to improve the Uber user-experience**](https://eng.uber.com/causal-inference-at-uber/)**:**
 
 Uber is using causal inference methods that enable us to bring richer insights to operations analysis, product development, and other areas critical to improving the user experience on our platform.  Causal Inference provides information that is critical to both improving the user experience as well as making business decisions through better understanding the impact of key initiatives.  For example, if we are able to translate intangible variables such as customer satisfaction to business metrics, we can then use that information to help prioritize new features and tools. If we are able to understand the short-term and long-term impact of a new program such as [Uber Pro](https://www.uber.com/newsroom/uberpro/), that will help us build more sustainably and inform future product development decisions.
@@ -32,6 +34,8 @@ Uber is using causal inference methods that enable us to bring richer insights t
 
 ## **Netflix:**
 
+![](.gitbook/assets/image%20%2856%29.png)
+
 [**Experimentation and Causal Inference:** ](https://research.netflix.com/research-area/experimentation-and-causal-inference)\*\*\*\*
 
 Netflix uses A/B tests for testing almost every new product. When A/B tests are not possible, Quasi-experiments and other causal Inference Methods are used. This helps them infer what works best and what doesn't work.
@@ -40,17 +44,23 @@ Netflix uses A/B tests for testing almost every new product. When A/B tests are 
 
 ## **Booking.com** 
 
+![](.gitbook/assets/image%20%2853%29.png)
+
 The company has been using controlled experiments \(A/B tests\) for testing its products which produce some effects on their customers. Even small changes can reflect in huge revenue differences. At Booking.com a new technique called CUPED is implemented for testing, which is proven very effective. 
 
 {% embed url="https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d" %}
 
 ## **LinkedIn**
 
+![](.gitbook/assets/image%20%2855%29.png)
+
 LinkedIn uses A/B testing extensively for improving its ads over time. Linkedin has been researching different methods and using these tests for understanding the treatment and control effects very extensively in their production system. This has helped in increasing the impact of the ads and effective usage of the champaign budgets.
 
 [Causal inference from observational data: Estimating the effect of contributions on visitation frequency at LinkedIn](https://arxiv.org/pdf/1903.07755.pdf)
 
 ## **Trip Advisor:** 
+
+![](.gitbook/assets/image%20%2852%29.png)
 
 Trip Advisor considers the A/B test as a powerful technique for effective decision making. They have been using techniques like **Stratification, Control Variables** using approaches like **Regression & CUPED**. The company has been using these tests for inferring the impact of even small changes on the homepage, and there has been a substantial improvement after using such methods. They have been trying different methods by incorporating pre-experiment data which has proven to be more effective in reducing the variance in the experimental measurements. Read more [Here](https://www.tripadvisor.com/engineering/reducing-a-b-test-measurement-variance-by-30/).
 

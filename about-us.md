@@ -8,11 +8,9 @@ description: The book is complied by
 
 ![](.gitbook/assets/abhishek.png)
 
-Abhishek Dabas is a Graduate Student of the Information Systems Program at Northeastern University. 
+Abhishek Dabas is a Graduate Student of the Information Systems Program at Northeastern University.
 
-[LinkedIn](https://www.linkedin.com/in/adabhishek) \| [Github](https://github.com/abhishekdabas31
-) \| [Medium](https://medium.com/@adabhishekdabas
-)
+[LinkedIn](https://www.linkedin.com/in/adabhishek) \| [Github](https://github.com/abhishekdabas31%20) \| [Medium](https://medium.com/@adabhishekdabas%20)
 
 ## **Abhijit Krishna Menon**
 
@@ -24,9 +22,9 @@ His hobbies include playing chess, reading, and volunteering in community servic
 
 [Website](https://www.abhijitkmenon.com/) \| [LinkedIn](https://www.linkedin.com/in/abhijit-krishna-menon/)
 
-## Professor Nik Bear Brown \(**Mentor\)** 
+## Professor Nik Bear Brown \(**Mentor\)**
 
- Assistant teaching professor at Northeastern University
+Assistant teaching professor at Northeastern University
 
-[LinkedIn](https://www.linkedin.com/in/nikbearbrown/) 
+[LinkedIn](https://www.linkedin.com/in/nikbearbrown/)
 
