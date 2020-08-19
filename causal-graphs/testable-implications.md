@@ -32,20 +32,20 @@ $$
 
 **Probability distributions from DAG**
 
-* B is dependent on A
+* **B** is **dependent** on **A**
 
 $$
 P(B|A)
 $$
 
-* F is **independent** of A, B, C, D, G **conditional** on E \(The only thing that affects F is E, so if we condition on E we can control what affects F \)
+* **F** is **independent** of **A, B, C, D, G** **conditional** on **E** \(The only thing that affects F is E, so if we condition on E we can control what affects F \)
 
 $$
 P(F|A,B,C,D,E,G) = P(F|E)  \\
 F\perp \!\!\!\perp A,B,C,D,F |E
 $$
 
-* F & C are **marginally dependent or marginally associated** with each other
+* **F & C** are **marginally dependent or marginally associated** with each other
 
 $$
 P(F|C) \neq  P(F)
