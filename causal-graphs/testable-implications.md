@@ -14,7 +14,7 @@ The [Bayesian network](https://en.wikipedia.org/wiki/Bayesian_network) represent
 
 DAG are the model representation of how we think the world works. DAG is becoming a very essential tool in the field of Data Science.
 
-**Dependencies and Independencies are important to know and understand as it can tell us alot of information.** 
+**Dependencies and Independencies are important to know and understand as it can tell us alot of information.**
 
 ![](../.gitbook/assets/image%20%2827%29.png)
 
@@ -51,7 +51,7 @@ $$
 P(F|C) \neq  P(F)
 $$
 
-Similarly, we can check the dependency for other variables. Thus we just saw that probability and this DAG are compatible with each other. 
+Similarly, we can check the dependency for other variables. Thus we just saw that probability and this DAG are compatible with each other.
 
 \*\*\*\*
 

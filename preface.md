@@ -18,9 +18,9 @@ Most part of this book contains non-technical Language considering that most pro
 
 ## **The Goal**
 
-The goal of this book is to help anyone with the interest of exploring what causal inference is and bring them up to speed with what the current "State of The Art" is just through this one resource. We want to show how Causal Inference is not a different path towards Artificial Intelligence but an important aspect of the same pipeline that involves statistical inferences. 
+The goal of this book is to help anyone with the interest of exploring what causal inference is and bring them up to speed with what the current "State of The Art" is just through this one resource. We want to show how Causal Inference is not a different path towards Artificial Intelligence but an important aspect of the same pipeline that involves statistical inferences.
 
-_**We hope that this book can serve as an introduction to the importance of Causal thinking in the field of Artificial Intelligence and some relevant concepts of Causal Inference!!**_ 
+_**We hope that this book can serve as an introduction to the importance of Causal thinking in the field of Artificial Intelligence and some relevant concepts of Causal Inference!!**_
 
 ## **The Audience:**
 

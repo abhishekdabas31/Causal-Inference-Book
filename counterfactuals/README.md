@@ -2,19 +2,18 @@
 
 ## **Explanation**
 
-**Counterfactual Analysis** is a comparison of what happened with the intervention and what would have happened in the absence of that intervention.  We can determine the causal effect, by looking at the outcome, under both conditions. When there is a treatment and when there is no treatment given. We say there is a causal effect when these 2 potential outcomes are different.
+**Counterfactual Analysis** is a comparison of what happened with the intervention and what would have happened in the absence of that intervention. We can determine the causal effect, by looking at the outcome, under both conditions. When there is a treatment and when there is no treatment given. We say there is a causal effect when these 2 potential outcomes are different.
 
 Counterfactual Analysis is all about answering the question, "**what would have happened if?**". To understand and answer that question, we need to know what would have happened if a certain thing did not take place, which is a hypothetical or counterfactual outcome. Causal Inference is the general goal for counterfactual Analysis, as causality is considered to be the difference between the two potential outcomes under the intervention.
 
-**Example**:  
+**Example**:
 
 1. _Given that I have a beard, and that I have a PhD degree, and everything else we know about me, with what probability would I have obtained a PhD degree, had I never grown a beard._
-
-* A counterfactual question is **about a specific data point in this case PHD.**
+2. A counterfactual question is **about a specific data point in this case PHD.**
 
 _2. If a person dies after treatment, we can ask the counterfactual question, would the person die if the treatment was not given?, which can help us understand the causal relationship between treatment and outcome._
 
-## **Problems**: 
+## **Problems**:
 
 1. **The treated and untreated population should be comparable**. We cant observe the results if we distinguish people if they are healthy vs unhealthy people because in such case the outcome will definitely be different.
 2. For answering these counterfactual questions we need Causal Diagrams to answer this for us\(Do calculus\). Counterfactuals are personalized, as they would change if you go from 1 person to another.

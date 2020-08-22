@@ -16,8 +16,6 @@ From the definition, it is clear to see that stratification is exactly what solv
 
 ![](../../../.gitbook/assets/image%20%282%29.png)
 
-
-
 Let's consider a stratification and Non-stratification data \***comparision**\*
 
 ## **Problem:**
@@ -25,7 +23,7 @@ Let's consider a stratification and Non-stratification data \***comparision**\*
 1. There might be a big collection of variables that need to be controlled. In such cases, we need data on the combination of all these variables, which would not always be true. Example: If we have to stratify on age and treatment, then we need data on all possible combinations of age and treatment
 2. Other methods to achieve this are: matching inverse probability of treatment weighting and propensity score methods
 
-## **Solution**: 
+## **Solution**:
 
 * Determining the variables that should and should not be controlled for is an important step of a causal inference analysis and involves close collaboration between researchers and domain experts who have substantive knowledge of the business problem in question.
 

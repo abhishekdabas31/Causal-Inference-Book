@@ -22,9 +22,9 @@ Back Door Paths helps in determining which set of variables to condition on for 
 
 **Surrogate Confounders:** These are usually the child nodes of a confounder. If we can not block a Back-Door Path directly in a case, then we can try and condition on a child of the Counfouder, which will help reduce the confounder effect, if not eliminate it.
 
-## **Back Door Criterion:** 
+## **Back Door Criterion:**
 
-A set of variables {Z} satisfies the backdoor criterion relative to an ordered pair of variables \( Treatment \(T\), Outcome \(Y\) \) in a DAG if : 
+A set of variables {Z} satisfies the backdoor criterion relative to an ordered pair of variables \( Treatment \(T\), Outcome \(Y\) \) in a DAG if :
 
 1. no node in {Z} is a descendant of T 
 2. {Z} blocks \( or d-separates\) every path between T and Y that contain an arrow into T \(so-called “backdoor paths”\).
@@ -51,7 +51,7 @@ Back-Door Criterion helps us answer questions like:
 
 ## **Solution**:
 
-The Solution identifying a causal relationship between variables is to first identify all the paths between both the variables\(Treatment and Outcome\), then classifying them as **Front Door or Back Door Paths**. What we want is to **close all the Back-Door Paths** and make sure all the Front-Door Paths remain open. To identify this causal effect we need to **adjust or control for the variables**\(it means holding the variable constant\). To understand the effect of X on Y, we have to make sure we have closed all the Back-Door paths while leaving all the Front-Door Paths open. We can close back door paths by controlling the variables on those back door paths. We can do that by statistically holding these variables constant.  **Example**: If we are trying to understand the relationship between being sick and going to the doctor, then there might be a confounder, "Past health issues". People with past health issues are more likely to go to the doctor when sick. People with no past health issues less likely to go to the doctor. To understand the effect of being sick and going to the doctor, here we have to condition on the variable "Past health issues". By **controlling the variables** in Back-Door Path we want to make sure we are comparing the effect on the same population.
+The Solution identifying a causal relationship between variables is to first identify all the paths between both the variables\(Treatment and Outcome\), then classifying them as **Front Door or Back Door Paths**. What we want is to **close all the Back-Door Paths** and make sure all the Front-Door Paths remain open. To identify this causal effect we need to **adjust or control for the variables**\(it means holding the variable constant\). To understand the effect of X on Y, we have to make sure we have closed all the Back-Door paths while leaving all the Front-Door Paths open. We can close back door paths by controlling the variables on those back door paths. We can do that by statistically holding these variables constant. **Example**: If we are trying to understand the relationship between being sick and going to the doctor, then there might be a confounder, "Past health issues". People with past health issues are more likely to go to the doctor when sick. People with no past health issues less likely to go to the doctor. To understand the effect of being sick and going to the doctor, here we have to condition on the variable "Past health issues". By **controlling the variables** in Back-Door Path we want to make sure we are comparing the effect on the same population.
 
 ## **Resource**:
 

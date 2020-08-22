@@ -10,7 +10,7 @@ Interventions:
 
 ![Graphical Representaion of Intervention](../.gitbook/assets/image%20%2813%29.png)
 
-In the figure above, 
+In the figure above,
 
 $$
 Left: Title\:Length \leftarrow Author's\: Skill \\

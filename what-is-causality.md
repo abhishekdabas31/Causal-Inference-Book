@@ -24,7 +24,7 @@ An important process in the understanding of a particular cause is the process o
 
 However, this is a very generalistic view of causality. Just because we have seen an even occur in the past, it does not guarantee that it will happen in the future. Just because we see the sunrise and sunset everyday, does not guarantee that it will take place tomorrow.
 
-Causality can roughly be divided into two main parts. 
+Causality can roughly be divided into two main parts.
 
 1. **Linear**
 2. **Non-Linear**

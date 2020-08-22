@@ -4,17 +4,16 @@ description: Randomized Control Trial (RCT)
 
 # Randomization
 
-Randomized experiments were developed predominantly focusing on medical and agriculture. [Randomized controlled](https://en.wikipedia.org/wiki/Randomized_controlled_trial) trials are best to date, as we believe and agree that randomization is not biased. In this process, we randomly divide units into treatment and control groups before the action or intervention takes place, in an attempt to make these units comparable. Both the groups  \(treatment and control\) are given different treatments. Randomization makes these groups comparable, after which the outcome is observed. If we believe that data is separated without any bias, this is a very good method for quick conclusions.
+Randomized experiments were developed predominantly focusing on medical and agriculture. [Randomized controlled](https://en.wikipedia.org/wiki/Randomized_controlled_trial) trials are best to date, as we believe and agree that randomization is not biased. In this process, we randomly divide units into treatment and control groups before the action or intervention takes place, in an attempt to make these units comparable. Both the groups \(treatment and control\) are given different treatments. Randomization makes these groups comparable, after which the outcome is observed. If we believe that data is separated without any bias, this is a very good method for quick conclusions.
 
 1. Randomized Experiments:
-
-*  A/B testing
+2. A/B testing
 
 ![](../../../.gitbook/assets/image%20%2820%29.png)
 
 ## **Why Randomization?**
 
-If a person knows that they are getting a placebo or an active drug, they might stop taking the drug which hence would introduce bias. If this study is not randomized then the causal difference might be due to how the patients reacted, which is actually the true causal effect. Thus the allocation should be randomized. Randomization removes the worry about the treatment being correlated with other missing values. The extreme version of this correlation is confounding. **Example**: Understanding the causal effect of medication to cure a disease, can be tested through randomized control trial\(RCT\), where some people are randomly given the treatment and some placebo\(Control group\). The outcome of this can be considered as a causal effect because the treatment is randomly assigned and all possible confounders are removed through this process of randomization. 
+If a person knows that they are getting a placebo or an active drug, they might stop taking the drug which hence would introduce bias. If this study is not randomized then the causal difference might be due to how the patients reacted, which is actually the true causal effect. Thus the allocation should be randomized. Randomization removes the worry about the treatment being correlated with other missing values. The extreme version of this correlation is confounding. **Example**: Understanding the causal effect of medication to cure a disease, can be tested through randomized control trial\(RCT\), where some people are randomly given the treatment and some placebo\(Control group\). The outcome of this can be considered as a causal effect because the treatment is randomly assigned and all possible confounders are removed through this process of randomization.
 
 **Note**: Randomization removes the back door path from the treatment to the outcome!!
 
@@ -37,7 +36,7 @@ A **randomized experiment holds the following true \(Assumptions\):**
 3. **Stratified randomized experiment**: Subgroups based on covariates, X,  are partitioned and given completely randomized experiments within each of these strata.
 4. **Paired Randomized experiments**: Special case of stratified randomized experiments with 2 similar samples are matched into pairs. It is also called Matched pair experiments.
 
-## **Resource**: 
+## **Resource**:
 
 [https://kojinoshiba.com/causal%20inference/what-are-experiments/](https://kojinoshiba.com/causal%20inference/what-are-experiments/)
 

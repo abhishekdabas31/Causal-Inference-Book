@@ -6,5 +6,3 @@ For the effective and faster implementation of Causal Inference on a larger scal
 
 To understand and detect the causal relationship we have a lot of assumptions in our model, which we need to check. In such a case, we have to repeat some very common steps. Ensuring the validity of our assumptions and testing them is very essential in causal inference. These Libraries help us with these repeated steps of testing and make it faster.
 
- 
-

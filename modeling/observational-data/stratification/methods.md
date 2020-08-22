@@ -1,6 +1,6 @@
 # Methods
 
-The good part about stratification is that there it is easy and in fact, there are a lot of libraries to do so. 
+The good part about stratification is that there it is easy and in fact, there are a lot of libraries to do so.
 
 1. **library - Sklearn**
 
