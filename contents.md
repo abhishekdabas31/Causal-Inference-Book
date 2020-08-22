@@ -4,6 +4,7 @@
 * [About Us](about-us.md)
 * [Preface](preface.md)
 * [What is Causality?](what-is-causality.md)
+* [Why bother with Causality?](why-bother-with-causality.md)
 * [Origin of Causality](origin-of-causality.md)
 * [Statistical Inference Vs Causal Inference](statistical-inference-vs-causal-inference.md)
 * [Decision-Making](decision-making.md)
