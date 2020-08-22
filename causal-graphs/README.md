@@ -1,18 +1,16 @@
 # Causal Graphs
 
-Causal graphs also referred to as **DAG - Directed Acyclic Graphs**!!! 
+Causal graphs also referred to as **DAG - Directed Acyclic Graphs**!!!
 
 * **There are 2 types of graphs:**
-
-1. **Directed Graphs**: When the arrow points to the direction of **the cause** of a variable. There has a particular direction of the path between the variables. **Directed graphs** have edges with direction.
-2. **UnDirected Graphs**: When there is a line between the variables showing that there is an association between them. **Undirected graphs** have edges that do not have a direction. 
+* **Directed Graphs**: When the arrow points to the direction of **the cause** of a variable. There has a particular direction of the path between the variables. **Directed graphs** have edges with direction.
+* **UnDirected Graphs**: When there is a line between the variables showing that there is an association between them. **Undirected graphs** have edges that do not have a direction. 
 
 ![](../.gitbook/assets/image%20%2821%29.png)
 
 * **A Directed Graph can be of 2 types:**
-
-1. **Cyclic Graphs**: A cyclic graph is a graph in which the only repeated vertices are the first and last vertices.
-2. **Acyclic Graphs**: An acyclic graph is a graph without cycles. When following the graph from node to node, you will never visit the same node twice.
+* **Cyclic Graphs**: A cyclic graph is a graph in which the only repeated vertices are the first and last vertices.
+* **Acyclic Graphs**: An acyclic graph is a graph without cycles. When following the graph from node to node, you will never visit the same node twice.
 
 **Causal graphs or DAG's** are the graphs with :
 
@@ -28,7 +26,7 @@ Causal graphs also referred to as **DAG - Directed Acyclic Graphs**!!!
 
 **Note**: Causal Graphs are essential because they explicitly define the underlying assumptions.
 
-**Causal DAGs consist of three elements:** 
+**Causal DAGs consist of three elements:**
 
 1. Variables \(nodes, vertices\) 
 2. Arrows \(directed edges, arcs\): possible direct causal effects. The arrows order the variables in time.
@@ -45,6 +43,4 @@ Causal graphs also referred to as **DAG - Directed Acyclic Graphs**!!!
 2. Structure learning
 3. Reduce "what if" questions to symbolic calculus\(Testable implications\)
 4. Reducing scientific questions to symbolic calculus\(Testable implications\)
-
-
 

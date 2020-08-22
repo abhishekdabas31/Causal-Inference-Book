@@ -1,6 +1,6 @@
 # A/B Testing
 
-A/B testing is an example of a **completely randomized trial**. It is considered as a standard and basic test for randomized controlled experiments. This makes A/B testing a popular approach for running experiments and determining if experience "A" OR "B" works better. This helps to establish causation as opposed to a correlation in observed data. 
+A/B testing is an example of a **completely randomized trial**. It is considered as a standard and basic test for randomized controlled experiments. This makes A/B testing a popular approach for running experiments and determining if experience "A" OR "B" works better. This helps to establish causation as opposed to a correlation in observed data.
 
 ![](../../../../.gitbook/assets/image%20%2824%29.png)
 
@@ -19,9 +19,8 @@ It is a very basic and effective way of testing two versions of things and figur
 1. Generate Hypothesis: **Null Hypothesis**\(New features have no effect, it is a baseline assumption that there is no relationship between 2 datasets\) and Alternate Hypothesis. 
 2. Gather relevant data 
 3. Test statistics \(Statistical significance,p=value\)
-
-* **P-Value-** It is the specific probability of getting results as extreme as we have if the null hypothesis were true. 
-  * If p-values is 0.0216, which is less than 0.05, we reject the null hypothesis by saying there is a 2.16% chance of Alternate hypothesis coming from random noise. **We are just proving there is a correlation between the conditions but not causation \( a relation between new ads and higher people coming in\)**
+4. **P-Value-** It is the specific probability of getting results as extreme as we have if the null hypothesis were true.
+   * If p-values is 0.0216, which is less than 0.05, we reject the null hypothesis by saying there is a 2.16% chance of Alternate hypothesis coming from random noise. **We are just proving there is a correlation between the conditions but not causation \( a relation between new ads and higher people coming in\)**
 
 **A/B test** starts by deciding what hypothesis we want to test. **Example**: examine the size of the subscriber's button. The metric here is how many people click on the button. To run the test we show different buttons to different people and then conclude which size of a button made more CTR\(Click Through Rate\). In this case there is is very important to understand that there might be different factors influencing the clicks on the button, screen size? mobile & laptop version? which can influence the result of our analysis. By **randomization**, we are minimizing these factors here. If the population of these are not similar, we can consider diving the population with screen size **\(Conditioning on the confounder\)**. Usually, in such cases, we need to identify the effects and incorporate assumptions within the process of causal effect estimation, which can otherwise lead to wrong conclusions.
 
@@ -58,7 +57,7 @@ _AB Testing checks the effect of the treatment over a population that selects th
 
 ## **Resource:**
 
- [https://towardsdatascience.com/data-science-you-need-to-know-a-b-testing-f2f12aff619a](https://towardsdatascience.com/data-science-you-need-to-know-a-b-testing-f2f12aff619a)
+[https://towardsdatascience.com/data-science-you-need-to-know-a-b-testing-f2f12aff619a](https://towardsdatascience.com/data-science-you-need-to-know-a-b-testing-f2f12aff619a)
 
 [Statistical significance](https://towardsdatascience.com/statistical-significance-hypothesis-testing-the-normal-curve-and-p-values-93274fa32687)
 

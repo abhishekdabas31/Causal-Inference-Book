@@ -4,9 +4,9 @@ description: Opinion by the leaders/ People to follow
 
 # Leaders in the Industry
 
-## [**Yoshua Bengio**](https://yoshuabengio.org/) ****
+## [**Yoshua Bengio**](https://yoshuabengio.org/) _\*\*_
 
-**\(**A ****co-recipient of the 2018 ACM A.M. Turing Award for his work in deep learning**\)**
+**\(**A **\*\*co-recipient of the 2018 ACM A.M. Turing Award for his work in deep learning**\)\*\*
 
 ![](../.gitbook/assets/image%20%2835%29.png)
 
@@ -21,27 +21,25 @@ description: Opinion by the leaders/ People to follow
 
 Judea Pearl says AI can’t be truly intelligent until it has a rich understanding of cause and effect, which would enable the introspection that is at the core of cognition.
 
-## [**Elias Bareinboim**](https://causalai.net/) ****
+## [**Elias Bareinboim**](https://causalai.net/) _\*\*_
 
 \(Director, Causal Artificial Intelligence Lab CausalAI Laboratory\)
 
 ![](../.gitbook/assets/image%20%2833%29.png)
 
-## [**Fei-Fei Li** ](https://profiles.stanford.edu/fei-fei-li) 
+## [**Fei-Fei Li** ](https://profiles.stanford.edu/fei-fei-li)
 
 **\(**Director of the Stanford Artificial Intelligence Lab\)
 
-I believe that today’s machine-learning and AI tools won’t be enough to bring about real AI. “It’s not just going to be data-rich deep learning,” she says. Li believes AI researchers will need to think about things like emotional and social intelligence. - 
+I believe that today’s machine-learning and AI tools won’t be enough to bring about real AI. “It’s not just going to be data-rich deep learning,” she says. Li believes AI researchers will need to think about things like emotional and social intelligence. -
 
-##  ****[**Gary Marcus**](http://garymarcus.com/index.html) ****
+## **\*\*\[**Gary Marcus**\]\(**[http://garymarcus.com/index.html](http://garymarcus.com/index.html)**\) \*\***
 
 **\(**Scientist, Author, Entrepreneur**\)**
 
 "In particular, we need to stop building computer systems that merely get better and better at detecting statistical patterns in data sets — often using an approach known as deep learning — and start building computer systems that from the moment of their assembly innately grasp three basic concepts: time, space and causality"
 
 ## [Miguel Hernan](https://www.hsph.harvard.edu/miguel-hernan/)
-
-
 
 ### **"Causal Inference is Hard"**
 

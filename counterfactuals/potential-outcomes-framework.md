@@ -26,13 +26,12 @@ $$
 
 * Treatment: doing Master's \(T=1\) & not doing Master's \(T=0\)
 * Every individual person has 2 potential outcomes, Yt=0 & Yt=1 .
-
-1. Yt=0 -&gt; Potential Outcome when not doing Masters
-2. Yt=1 -&gt; Potential Outcome when doing Masters
+* Yt=0 -&gt; Potential Outcome when not doing Masters
+* Yt=1 -&gt; Potential Outcome when doing Masters
 
 ## **ITE**
 
- ****Individual Treatment Effect is the difference between the 2 potential outcomes for a particular individual. We cannot measure ICE as we would need counterfactual value for the individual.
+_\*\*_Individual Treatment Effect is the difference between the 2 potential outcomes for a particular individual. We cannot measure ICE as we would need counterfactual value for the individual.
 
 $$
 ICE = Y1 - Y0

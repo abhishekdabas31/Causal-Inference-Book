@@ -1,6 +1,6 @@
 # Causal Assumptions
 
-Identifiability of causal effects requires making some untestable assumptions. Because of the problem in Causal Inference, that we do not see both the potential outcomes within the data, it is required to make some strong assumptions. Some of these assumptions are untestable, these untestable assumptions are the **causal assumptions**. These assumptions are about the observed data, i.e treatment, outcome, and the set of pre-treatment covariates. 
+Identifiability of causal effects requires making some untestable assumptions. Because of the problem in Causal Inference, that we do not see both the potential outcomes within the data, it is required to make some strong assumptions. Some of these assumptions are untestable, these untestable assumptions are the **causal assumptions**. These assumptions are about the observed data, i.e treatment, outcome, and the set of pre-treatment covariates.
 
 **The most common assumptions are:**
 
@@ -30,7 +30,7 @@ $$
 Y1 , Y0\perp \!\!\!\perp T
 $$
 
-**Observational Studies:**  The potential outcomes, Y1 and Y0, must be jointly independent \(“∐”\) of treatment assignment within groups defined by the value of X.
+**Observational Studies:** The potential outcomes, Y1 and Y0, must be jointly independent \(“∐”\) of treatment assignment within groups defined by the value of X.
 
 $$
 Y0 , Y1\perp \!\!\!\perp Y   | X
@@ -41,10 +41,4 @@ $$
 For every set of values for X, treatment assignment is not deterministic. It makes sure that even after controlling for variables, not all the population receives a particular treatment. This makes sure we have observational data on all the treatments for making correct assumptions about the potential outcome. Variability in treatment assignment is important for identification.
 
 **Hence, These Assumptions are very important to link the Observed data with the potential outcome.**
-
-
-
-
-
-
 

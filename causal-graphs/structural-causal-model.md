@@ -1,8 +1,8 @@
 # Structural Causal Model
 
-**Definition**: The structural Causal Model tries to represent the data generating process\(DGP\) by explicitly defining causal relationships. 
+**Definition**: The structural Causal Model tries to represent the data generating process\(DGP\) by explicitly defining causal relationships.
 
-SCM is a tuple \(V, U, F, P\(U\)\) where 
+SCM is a tuple \(V, U, F, P\(U\)\) where
 
 * V = {V1,....Vn} which is endogenous variabes \(observable variables\)
 * U = {U1,...Un} which is exogenous variable\(Unobserved variable\)
@@ -13,7 +13,7 @@ SCM is a tuple \(V, U, F, P\(U\)\) where
 
 Structural Causal Model, SCM = Probabilistic Causal Model + Interventions
 
-The Structural Causal Model tries to formalize the causal relationships and the concept of interventions in the form of a graph. Then using some of the defined algorithms we can determine whether the effect can be calculated through the data available or not. **These tools are as good as the assumptions feed to the system.** 
+The Structural Causal Model tries to formalize the causal relationships and the concept of interventions in the form of a graph. Then using some of the defined algorithms we can determine whether the effect can be calculated through the data available or not. **These tools are as good as the assumptions feed to the system.**
 
 The SCM helps us in identifying the testable implications from the causal graph which can be used to come to causal conclusions. These testable functions could be really easy such as Linear functions, or as complex as cubic functions.
 
