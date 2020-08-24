@@ -4,7 +4,9 @@ description: The book is complied by
 
 # About-us
 
-## **Abhishek Dabas**
+## Author: 
+
+**Abhishek Dabas**
 
 ![](.gitbook/assets/abhishek.png)
 
@@ -12,7 +14,9 @@ Abhishek Dabas is a Graduate Student of the Information Systems Program at North
 
 [LinkedIn](https://www.linkedin.com/in/adabhishek) \| [Github](https://github.com/abhishekdabas31%20) \| [Medium](https://medium.com/@adabhishekdabas%20)
 
-## **Abhijit Krishna Menon**
+## **Contributor:**
+
+**Abhijit Krishna Menon**
 
 ![](.gitbook/assets/abhijit.png)
 
@@ -22,7 +26,9 @@ His hobbies include playing chess, reading, and volunteering in community servic
 
 [Website](https://www.abhijitkmenon.com/) \| [LinkedIn](https://www.linkedin.com/in/abhijit-krishna-menon/)
 
-## Professor Nik Bear Brown \(**Mentor\)**
+##  **Mentor:**
+
+**Prof. Nik Bear Brown**
 
 Assistant teaching professor at Northeastern University
 
