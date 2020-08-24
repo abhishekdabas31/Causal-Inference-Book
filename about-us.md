@@ -4,19 +4,15 @@ description: The book is complied by
 
 # About-us
 
-## Author: 
-
-**Abhishek Dabas**
+## **Abhishek Dabas**
 
 ![](.gitbook/assets/abhishek.png)
 
-Abhishek Dabas is a Graduate Student of the Information Systems Program at Northeastern University. He is also V.P of Research & Development at [AI Skunkworks at NEU](https://neu.campuslabs.com/engage/organization/ai-skunkworks-at-northeastern). 
+Abhishek Dabas is a Graduate Student of the Information Systems Program at Northeastern University.
 
 [LinkedIn](https://www.linkedin.com/in/adabhishek) \| [Github](https://github.com/abhishekdabas31%20) \| [Medium](https://medium.com/@adabhishekdabas%20)
 
-## **Contributor:**
-
-**Abhijit Krishna Menon**
+## **Abhijit Krishna Menon**
 
 ![](.gitbook/assets/abhijit.png)
 
@@ -26,9 +22,7 @@ His hobbies include playing chess, reading, and volunteering in community servic
 
 [Website](https://www.abhijitkmenon.com/) \| [LinkedIn](https://www.linkedin.com/in/abhijit-krishna-menon/)
 
-##  **Mentor:**
-
-**Prof. Nik Bear Brown**
+## Professor Nik Bear Brown \(**Mentor\)**
 
 Assistant teaching professor at Northeastern University
 

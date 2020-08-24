@@ -101,8 +101,6 @@ If we take a variable and set a manually to a different value\( a change that sp
 
 **bayesian network+intevention**
 
-**sem----think**
-
 * **Evidence-based Pyramid**
 
 The Evidence-Based pyramid is frequently used to understand and formalize the knowledge of the hierarchy of evidence and how this evidence can be used for formulating the recommendation for practice. The different levels of evidence are appropriately represented by the pyramid of evidence as shown below. The levels from bottom to top reflects an increase in the quality of the research design. **Example**: Systematic reviews are of higher quality than just expert opinion.
