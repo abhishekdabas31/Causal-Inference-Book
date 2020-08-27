@@ -56,6 +56,7 @@
     * [Workflow](tools-and-libraries/dowhy/untitled.md)
   * [Causal Graphical Models](tools-and-libraries/causal-graphical-models.md)
   * [CausalInference](tools-and-libraries/causalinference.md)
+  * [Causality](tools-and-libraries/causality.md)
   * [Dagitty](tools-and-libraries/dagitty.md)
   * [Other Libraries](tools-and-libraries/other-libraries.md)
 * [Limitations of Causal Inference](limitations-of-causal-inference/README.md)
