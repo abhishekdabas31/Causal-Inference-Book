@@ -31,7 +31,7 @@ $$
 
 ## **ITE**
 
-_\*\*_Individual Treatment Effect is the difference between the 2 potential outcomes for a particular individual. We cannot measure ICE as we would need counterfactual value for the individual.
+\_\*\*\_Individual Treatment Effect is the difference between the 2 potential outcomes for a particular individual. We cannot measure ICE as we would need counterfactual value for the individual.
 
 $$
 ICE = Y1 - Y0

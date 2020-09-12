@@ -42,7 +42,7 @@
       * [Inverse Propensity Weighting](modeling/observational-data/weighting/inverse-propensity-weighting.md)
     * [Propensity Score](modeling/observational-data/propensity-score.md)
     * [Sensitivity Analysis](modeling/observational-data/sensitivity-analysis.md)
-    * [Regression Discontinuity](modeling/observational-data/regression-discontinuity.md)
+    * [Regression Discontinuity](modeling/observational-data/quasi-experiment/regression-discontinuity.md)
     * [Matching](modeling/observational-data/matching.md)
     * [Stratification](modeling/observational-data/stratification/)
       * [Methods](modeling/observational-data/stratification/methods.md)

@@ -26,7 +26,7 @@ Statisticians have been considering and researching on causality for a very long
 
 **Mainly there are 2 Frameworks :**
 
-1. **Rubin Causal Model \(RCM\) by** [**Rubin-Neyman** ](https://en.wikipedia.org/wiki/Rubin_causal_model)**-** Potential Outcomes Framework _\*\*_Control Group Experiments
+1. **Rubin Causal Model \(RCM\) by** [**Rubin-Neyman** ](https://en.wikipedia.org/wiki/Rubin_causal_model)**-** Potential Outcomes Framework \_\*\*\_Control Group Experiments
 2. **Structural Causal Model \(SCM\) by Judea Perl** - Causal Graphical Models, Causal Diagrams and Do-Calculus
 3. _Both of these frameworks have different usage but overall focus on the same concept!!_
 
