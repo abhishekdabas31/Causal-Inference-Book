@@ -29,6 +29,7 @@
   * [Graph Theory](causal-graphs/paths.md)
   * [Build your DAG](causal-graphs/directed-acyclic-graphs.md)
   * [Testable Implications](causal-graphs/testable-implications.md)
+  * [Testing notebook](causal-graphs/testing-notebook.md)
   * [Limitations of Causal Graphs](causal-graphs/limitations-of-causal-graphs.md)
 * [Counterfactuals](counterfactuals/README.md)
   * [Potential Outcomes Framework](counterfactuals/potential-outcomes-framework.md)
