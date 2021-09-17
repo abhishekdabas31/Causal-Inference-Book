@@ -10,7 +10,7 @@ description: The book is complied by
 
 ![](.gitbook/assets/abhishek.png)
 
-Abhishek Dabas is a Graduate Program Researcher pursuing Information Systems Program at Northeastern University. He is also V.P of Research & Development at [AI Skunkworks at NEU](https://neu.campuslabs.com/engage/organization/ai-skunkworks-at-northeastern). 
+Abhishek Dabas is a Graduate Program Researcher pursuing Information Systems Program at Northeastern University. He is also the **President** at [AI Skunkworks at NEU](https://neu.campuslabs.com/engage/organization/ai-skunkworks-at-northeastern). 
 
 [LinkedIn](https://www.linkedin.com/in/adabhishek) \| [Github](https://github.com/abhishekdabas31%20) \| [Medium](https://medium.com/@adabhishekdabas%20)
 
